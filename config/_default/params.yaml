@@ -9,17 +9,17 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Project
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Project TERAIS'
+    description: 'TERAIS (Towards Excellent Robotics and Artificial Intelligence at a Slovak university) is an international project funded by the Horizon Europe programme under the Twinning call that started at the beginning of October 2022. The ultimate goal of the TERAIS project is to elevate the Department of Applied Informatics at Comenius University in Bratislava to a workplace of international academic excellence in the field of cognitive robotics and artificial intelligence.'
+    twitter: 'TERAIS_project'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Project TERAIS participants. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,9 +53,9 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '2 January 2006'
+  time_format: '15:04'
+  address_format: nl
 
 # Site features
 
