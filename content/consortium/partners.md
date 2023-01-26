@@ -19,8 +19,6 @@ The TERAIS consortium is lead by the Department of Applied Informatics
 of **Comenius University in Bratislava**.
 The international academic partners are the **University of Hamburg** in Germany
 and the **Italian Institute of Technology** in Genoa.
-The TERAIS project is co-funded by the **Horizon Europe** programme
-of the European Union.
 
 <div class="row mt-4 align-items-center justify-content-around">
 {{< figure src="logos/ukba-bw-en.svg" alt="Comenius University in Bratislava"
