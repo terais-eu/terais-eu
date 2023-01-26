@@ -4,21 +4,29 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Home
+    url: /
     weight: 10
+  - name: About
+    url: about
+    weight: 15
   - name: News
     url: post
     weight: 20
-  - name: People
-    url: people
+  - name: Consortium
+    url: consortium
     weight: 30
   - name: Events
     url: event
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Press
+    url: press
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Twitter
+    url: https://twitter.com/TERAIS_project
     weight: 60
+    icon_pack: fa
+    icon: twitter
+  # - name: Contact
+  #   url: contact
+  #   weight: 60
