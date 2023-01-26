@@ -73,8 +73,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Project Leaders
-- WP Leaders
-- WP Coordinators
+- Work Package Leaders
 - WP5
 ---
 Igor Farkaš holds a PhD degree in applied informatics and MSc degree in technical cybernetics, both from the Slovak University of Technology in Bratislava. In 2000-2003 he worked as a research fellow (postdoc) at the Department of Psychology, University of Richmond, VA where he worked on connectionist modeling of early lexical acquisition.
