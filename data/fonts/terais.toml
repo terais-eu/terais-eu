@@ -1,0 +1,14 @@
+# The Native Font Theme provides optimum text rendering on every device and OS.
+# Note that the native font families are automatically populated by Academic.
+
+# Font style metadata
+name = "TERAIS"
+
+# Optional Google font URL
+google_fonts = "family=Red+Hat+Display:wght@400;500;700&family=Red+Hat+Mono&family=Red+Hat+Text:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,wght@0,400;0,700;1,400;1,700"
+
+# Font families
+heading_font = "Red Hat Display"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "Red Hat Mono"
