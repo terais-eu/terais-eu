@@ -31,8 +31,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Image credit: [Hynek Alt](http://www.vetrelciavolavky.cz/en/sochy/tapiserie-0)'
+  focal_point: center
 
 url_code: ''
 url_pdf: ''
