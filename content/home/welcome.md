@@ -7,17 +7,33 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  Project TERAIS
+hero_media: terais-nico-hero.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
   css_style:
   css_class:
+cta:
+  label: Learn more
+  url: ./about/
+cta_alt:
+  label: Partners & Key People
+  url: ./consortium/
 ---
 
-<br>
+<div class="mt-4 mb-3">
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak university)
+is an international project funded by the Horizon Europe programme
+under the Twinning call that started at the beginning of October 2022.
+The ultimate goal of the TERAIS project
+is to elevate the **Department of Applied Informatics**
+at **Comenius University** in Bratislava
+to a workplace of international **academic excellence**
+in the field of cognitive robotics and artificial intelligence
+in cooperation with partners from **University of Hamburg**
+and **Italian Institute of technology**.
+
+</div>
