@@ -33,7 +33,7 @@ is to elevate the **Department of Applied Informatics**
 at **Comenius University** in Bratislava
 to a workplace of international **academic excellence**
 in the field of cognitive robotics and artificial intelligence
-in cooperation with partners from **University of Hamburg**
-and **Italian Institute of technology**.
+in cooperation with partners from the **University of Hamburg**
+and the **Italian Institute of Technology**.
 
 </div>
