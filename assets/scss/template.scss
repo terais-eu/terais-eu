@@ -1,9 +1,19 @@
 // Make page header alignment consistent with widget page header alignment
-.universal-wrapper h1 {
+.universal-wrapper h1, .article-container h1 {
   text-align: center;
 }
 
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
+}
+
+
+.navbar {
+  font-size: #{$sta-font-size-small}px;
+}
+@media screen and (min-width: 58em) {
+  .navbar {
+    font-size: 0.88888889rem;
+  }
 }
