@@ -9,11 +9,59 @@
 }
 
 
+// Smaller font size unification with bootstrap's .small
+
 .navbar {
   font-size: #{$sta-font-size-small}px;
 }
 @media screen and (min-width: 58em) {
   .navbar {
-    font-size: 0.88888889rem;
+    font-size: 1rem;
   }
+}
+
+.card-simple .article-style,
+.media.stream-item .article-style {
+  margin-top: 2px;
+  font-size: 0.875rem;
+}
+
+.breadcrumb,
+.article-metadata, .article-header-caption,
+.btn.btn-sm,
+.docs .body-footer,
+.docs-sidebar .nav > li > a,
+.people-widget, .people-widget .portrait-title h3,
+.wg-about .portrait-title h3,
+.search-hit-description,
+pre, small, .small, footer p, footer .powered-by, .pub-icon,
+.page-subtitle,
+.card .card-text p,
+.featurette,
+.author-card .card-subtitle, .author-card .card-text
+.exp-meta, .experience .card-text, .experience .card-text p,
+figure figcaption
+{
+  font-size: 0.875rem;
+}
+
+
+
+// Alignment with Bootstrap sizing conventions
+
+.btn {
+  font-size: 1rem;
+}
+
+.hero-title {
+  font-size: 2.75rem;
+}
+
+.hero-lead, .wg-hero .btn-lg, .wg-hero .btn-group-lg > .btn {
+  font-size: 1.25rem;
+}
+
+// Unnecessary and weird
+.article-metadata {
+  letter-spacing: normal;
 }
