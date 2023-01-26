@@ -22,11 +22,6 @@ main:
   - name: Press
     url: press
     weight: 50
-  # - name: Twitter
-  #   url: https://twitter.com/TERAIS_project
-  #   weight: 60
-  #   icon_pack: fa
-  #   icon: twitter
-  # - name: Contact
-  #   url: contact
-  #   weight: 60
+  - name: Contact
+    url: contact
+    weight: 60
