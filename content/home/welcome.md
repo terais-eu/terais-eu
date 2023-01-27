@@ -20,7 +20,7 @@ cta:
   url: ./about/
 cta_alt:
   label: Partners & Key People
-  url: ./consortium/
+  url: ./partners/
 ---
 
 <div class="mt-4 mb-3">

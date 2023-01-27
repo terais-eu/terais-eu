@@ -13,8 +13,8 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: Consortium
-    url: consortium
+  - name: Partners
+    url: partners
     weight: 30
   - name: Events
     url: event

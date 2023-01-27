@@ -11,7 +11,7 @@ weight: 15
 design:
   columns: '1'
   spacing:
-    padding: ["3rem", "0px"]
+    padding: ["2rem", "0"]
 ---
 <div class="article-container">
 
@@ -32,5 +32,3 @@ and the **Italian Institute of Technology** in Genoa.
     link="https://www.iit.it" >}}
 </div>
 </div>
-
-

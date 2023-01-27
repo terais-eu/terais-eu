@@ -23,5 +23,5 @@ design:
   show_role: true
   show_social: false
   spacing:
-    padding: ["3rem", "0px"]
+    padding: ["2rem", "0"]
 ---
