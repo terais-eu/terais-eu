@@ -1,7 +1,7 @@
 ---
 title: TERAIS Opening Seminar
 
-event: TERAIS Opening Seminar
+# event: Big Superevent
 #event_url: https://example.org
 
 location: Družba Hotel Congress Centre
