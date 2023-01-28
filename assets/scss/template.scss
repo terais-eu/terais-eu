@@ -61,6 +61,10 @@ figure figcaption
   font-size: 1.25rem;
 }
 
+table {
+  font: inherit;
+}
+
 // Unnecessary and weird
 .article-metadata {
   letter-spacing: normal;
