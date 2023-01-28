@@ -6,10 +6,10 @@ event: TERAIS Opening Seminar
 
 location: Družba Hotel Congress Centre
 address:
-  street: Botanická St.
+  street: Botanická 6
   city: Bratislava
   #region: CA
-  #postcode: '94305'
+  postcode: '841 04'
   country: Slovakia
 
 summary: |

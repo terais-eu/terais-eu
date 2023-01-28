@@ -6,12 +6,12 @@ title: Human-Aware Artificial Systems Workshop
 # event_url: https://event.example.com/
 
 location: |
-  Center for Human Technologies, IIT, Fibonacci Room (Floor 10)
+  IIT – Center for Human Technologies, Fibonacci Room (Floor 10)
 address:
-  street: "Tower B, GREAT Campus: Parco Scientifico e Tecnologico di Genova"
+  street: "Via Enrico Melen, 83"
   city: Genoa
   #region: CA
-  #postcode: '94305'
+  postcode: '16152'
   country: Italy
 
 summary: |
