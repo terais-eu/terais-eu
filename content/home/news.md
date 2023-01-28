@@ -16,6 +16,10 @@ content:
     featured_only: true
     publication_type: ''
     tag: ''
+    folders:
+      - post
+      - event
+      - press
   offset: 0
   order: desc
   #page_type: post

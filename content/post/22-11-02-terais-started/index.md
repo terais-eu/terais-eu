@@ -1,9 +1,12 @@
 ---
 title: New EU twinning project TERAIS
 date: 2022-11-02
+
 image:
-    filename: logo-small.png
-    focalpoint: center
+    filename: logo-small.png # defaults to featured.jpg in the post's folder
+    # focalpoint: center # this is the default, affects thumbnail generation
+
+# Set to true to display this item on the home page
 featured: true
 ---
 The three-year Horizon Europe project TERAIS (Towards Excellent Robotics and
