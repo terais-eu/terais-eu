@@ -8,16 +8,17 @@ title: Latest News
 subtitle:
 
 content:
-  count: 3
+  count: 5
   filters:
     author: ''
     category: ''
-    exclude_featured: false
+    # exclude_featured: false
+    featured_only: true
     publication_type: ''
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  #page_type: post
 design:
   view: compact
   columns: '2'
