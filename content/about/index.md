@@ -76,4 +76,4 @@ It is supported
 by the European Union scientific research initiative Horizon Europe (92%)
 and co-financed by Comenius University (8%).
 
-{{% cta cta_link="/people/" cta_text="Partners & People →" %}}
+{{% cta cta_link="/partners/" cta_text="Partners & People <i class='fas fa-chevron-right'></i>" %}}
