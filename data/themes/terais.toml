@@ -3,7 +3,7 @@ name = "TERAIS"
 
 [light]
   # Primary
-  primary = "#cc690d"
+  primary = "#ff8200"
 
   # Menu
   menu_primary = "#fff"
