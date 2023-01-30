@@ -5,7 +5,7 @@
 name = "TERAIS"
 
 # Optional Google font URL
-google_fonts = "family=Red+Hat+Display:wght@400;500;700&family=Red+Hat+Mono&family=Red+Hat+Text:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,wght@0,400;0,700;1,400;1,700"
+google_fonts = "family=Red+Hat+Display:wght@400;500;700&family=Sorts+Mill+Goudy:wght@400&family=Red+Hat+Mono&family=Red+Hat+Text:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,wght@0,400;0,700;1,400;1,700"
 
 # Font families
 heading_font = "Red Hat Display"

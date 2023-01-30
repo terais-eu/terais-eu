@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: terais
   theme_night:
   font: terais
   font_size: S
