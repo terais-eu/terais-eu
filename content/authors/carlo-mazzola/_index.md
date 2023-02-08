@@ -20,7 +20,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  **TODO**
+  Research Fellow at Cognitive Architectures for Collaborative Technologies
+  unit of the Italian Institute of Technology in Genoa.
 
 # List each interest with a dash
 # interests:
@@ -74,4 +75,6 @@ user_groups:
 - Work Package Leaders
 - WP3
 ---
-**TODO**
+Carlo Mazzola is Research Fellow at the Italian Institute of Technology in the unit Cognitive Architectures for Collaborative Technologies (CONTACT), where he works for the EU-funded project TERAIS (Towards Excellent Robotics and Artificial Intelligence at a Slovak university). He graduated (MS) in Philosophy at Università Cattolica del Sacro Cuore di Milano (Italy), after a period at the Bergische Universität Wuppertal (Germany), with a thesis about the role of imagination and empathy in perception. After a period as Visiting Scientist at the Italian Institute of Technology in the CONTACT unit, in which he explored mechanisms of social perception in HRI, in 2019 he started his Ph.D. in the same institute in the unit Robotics, Brain and Cognitive Sciences (RBCS), in which he investigated and developed mechanisms of Shared Perception between humans and the humanoid robot iCub. In 2022 he has been Visiting Student at the Cognitive Robotics Lab of the University of Manchester (Department of Computer Science).
+
+Carlo Mazzola serves as the TERAIS project WP3 Achievement of Scientific Excellence Leader.

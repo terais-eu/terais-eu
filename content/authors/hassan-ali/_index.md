@@ -20,7 +20,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  TODO
+  Research associate at the Knowledge Technology group,
+  University of Hamburg, Germany.
 
 # List each interest with a dash
 # interests:
@@ -74,4 +75,6 @@ user_groups:
 - Work Package Leaders
 - WP2
 ---
-**TODO**
+Hassan Ali is a research associate at the Knowledge Technology group, University of Hamburg, Germany. He has a B.Sc. degree in informatics with a major in software engineering and information systems from Tishreen University, Syria. He has completed his M.Sc. studies in the Intelligent Adaptive Systems program at the University of Hamburg. Previously, he worked as a teaching assistant at Tishreen University. His main research interests include deep learning, neural networks, cognitive robotics, human-robot interaction, and neuro-inspired gesture recognition.
+
+Hassan Ali serves as the TERAIS project WP2 Networking and Collaboration Leader.

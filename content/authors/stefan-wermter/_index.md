@@ -20,8 +20,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  Founding Director the Italian Institute of Technology and
-  full professor of bioengineering at the University of Genoa.
+  Full Professor and Head of Knowledge Technology Institute
+  at University of Hamburg, Germany.
 
 # List each interest with a dash
 # interests:
