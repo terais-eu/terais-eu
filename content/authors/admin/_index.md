@@ -1,6 +1,6 @@
 ---
 # Display name
-title: TERAIS Webmaster
+title: TERAIS
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,6 +46,16 @@ social:
     link: https://twitter.com/TERAIS_project
     display:
       header: true
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Project-Terais
+    display:
+      header: true
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100090422512039
+    display:
+      header: true
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -66,8 +76,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
+user_groups: []
 ---
 
 The collective of TERAIS WP7 Communication and Dissemination team members.

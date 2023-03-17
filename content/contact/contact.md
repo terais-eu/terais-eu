@@ -41,6 +41,14 @@ content:
      icon_pack: fab
      name: TERAIS_project
      link: 'https://twitter.com/TERAIS_project'
+   - icon: researchgate
+     icon_pack: fab
+     name: Project TERAIS
+     link: https://www.researchgate.net/profile/Project-Terais
+   - icon: facebook
+     icon_pack: fab
+     name: 'Department of Applied Informatics - Comenius University in Bratislava'
+     link: 'https://www.facebook.com/profile.php?id=100090422512039'
 
   # Automatically link email and phone or display as text?
   autolink: true
