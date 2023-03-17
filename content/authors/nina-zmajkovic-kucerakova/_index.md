@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: WP7 Dissemination and Communication Leader
+role: Project Assistant, WP7 Dissemination and Communication Leader
 weight: 70
 
 # Organizations/Affiliations
@@ -18,9 +18,9 @@ organizations:
 - name:  Comenius University in Bratislava
   url: "https://www.uniba.sk"
 
-# Short bio (displayed in user profile at end of posts)
-bio: |
-  TODO
+# # Short bio (displayed in user profile at end of posts)
+# bio: |
+#   TODO
 
 # List each interest with a dash
 # interests:
@@ -74,4 +74,8 @@ user_groups:
 - Work Package Leaders
 - WP7
 ---
-**TODO**
+Nina Zmajkovič Kučeráková is a Project Assistant for the TERAIS project. Nina is a highly skilled and motivated individual with a passion for research and project management. She holds two Master's degrees in Political Science and Sociology from the University of Amsterdam, which has provided her with a strong understanding of international affairs. 
+
+Nina brings a wealth of experience to the TERAIS project, having worked in both the business and non-governmental sectors. She has a diverse set of skills, including data processing, organization of events and summits, handling financial aspects, and high communication skills.   
+
+In her current role as Project Assistant for TERAIS, Nina is responsible for project management support, qualitative research data processing, and communication and dissemination. She is the WP7 Lead and plays a crucial role in ensuring the success of the TERAIS project. 

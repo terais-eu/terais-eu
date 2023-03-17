@@ -20,11 +20,11 @@ organizations:
 - name: University of Genoa
   url: "https://www.unige.it"
 
-# Short bio (displayed in user profile at end of posts)
-bio: |
-  Founding Director the Italian Institute of Technology and
-  full professor of bioengineering at the University of Genoa.
-  TERAIS project Networking Leader, WP4 and WP5 Coordinator.
+# # Short bio (displayed in user profile at end of posts)
+# bio: |
+#   Founding Director the Italian Institute of Technology and
+#   full professor of bioengineering at the University of Genoa.
+#   TERAIS project Networking Leader, WP4 and WP5 Coordinator.
 
 # List each interest with a dash
 # interests:

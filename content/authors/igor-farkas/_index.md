@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Project Coordinator, Transformation Lead Expert, WP5 Systematic Development of People Leader
+role: |
+  Project Coordinator, Transformation Lead Expert,
+  WP5 Systematic Development of People Leader
 weight: 50
 
 # Organizations/Affiliations
@@ -19,9 +21,9 @@ organizations:
   url: "https://www.uniba.sk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: |
-  Full professor and head of the Dept. of Applied Informatics
-  at Comenius University in Bratislava, Slovakia.
+# bio: |
+#   Full professor and vice-head of the Dept. of Applied Informatics
+#   at Comenius University in Bratislava, Slovakia.
 
 # List each interest with a dash
 # interests:

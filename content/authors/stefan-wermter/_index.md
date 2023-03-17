@@ -18,10 +18,10 @@ organizations:
 - name: University of Hamburg
   url: "https://www.uni-hamburg.de"
 
-# Short bio (displayed in user profile at end of posts)
-bio: |
-  Full Professor and Head of Knowledge Technology Institute
-  at University of Hamburg, Germany.
+# # Short bio (displayed in user profile at end of posts)
+# bio: |
+#   Full Professor and Head of Knowledge Technology Institute
+#   at University of Hamburg, Germany.
 
 # List each interest with a dash
 # interests:
@@ -76,7 +76,27 @@ user_groups:
 - WP4
 - WP5
 ---
-**TODO**
+Stefan Wermter is Full Professor at the University of Hamburg and Director
+of Knowledge Technology in the Department of Computer Science. He holds an
+MSc from the University of Massachusetts in Computer Science, and a
+Doctorate and Habilitation in Computer Science from the University of
+Hamburg. He has been a research scientist at the International Computer
+Science Institute in Berkeley before leading the Chair in Intelligent
+Systems at the University of Sunderland. His main research interests are in
+the fields of neural networks, hybrid neuro-symbolic systems,
+neuroscience-inspired computing, neurocognitive robotics and crossmodal
+learning. He has been the general chair for the International Conference on
+Artificial Neural Networks 2014 and on the board of the European Neural
+Network Society for many years. He has been an associate editor of the
+journals “Transactions of Neural Networks and Learning Systems” and “Neural
+Networks”. Currently, he serves as an associate editor for “Connection
+Science”, “International Journal for Hybrid Intelligent Systems” and he has
+been and is on the editorial board of the journals “Cognitive Systems
+Research”, “Cognitive Computation” and “Journal of Computational
+Intelligence and Applications”. He is co-coordinator of the International
+Collaborative Research Centre on “Crossmodal Learning” and coordinator of
+the European Training Networks SECURE and TRAIL on explainable neural
+networks and artificial intelligence for cognitive robots.
 
 Prof. Stefan Wermter serves as the Networking Lead Expert of the TERAIS project.
 

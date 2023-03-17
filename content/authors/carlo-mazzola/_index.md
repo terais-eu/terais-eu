@@ -18,10 +18,10 @@ organizations:
 - name: Italian Institute of Technology
   url: "https://www.iit.it"
 
-# Short bio (displayed in user profile at end of posts)
-bio: |
-  Research Fellow at Cognitive Architectures for Collaborative Technologies
-  unit of the Italian Institute of Technology in Genoa.
+# # Short bio (displayed in user profile at end of posts)
+# bio: |
+#   Research Fellow at Cognitive Architectures for Collaborative Technologies
+#   unit of the Italian Institute of Technology in Genoa.
 
 # List each interest with a dash
 # interests:

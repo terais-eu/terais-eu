@@ -18,10 +18,10 @@ organizations:
 - name: University of Hamburg
   url: "https://www.uni-hamburg.de"
 
-# Short bio (displayed in user profile at end of posts)
-bio: |
-  Research associate at the Knowledge Technology group,
-  University of Hamburg, Germany.
+# # Short bio (displayed in user profile at end of posts)
+# bio: |
+#   Research associate at the Knowledge Technology group,
+#   University of Hamburg, Germany.
 
 # List each interest with a dash
 # interests:

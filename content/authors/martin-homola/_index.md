@@ -18,9 +18,11 @@ organizations:
 - name:  Comenius University in Bratislava
   url: "https://www.uniba.sk"
 
-# Short bio (displayed in user profile at end of posts)
-bio: |
-  TODO
+# # Short bio (displayed in user profile at end of posts)
+# bio: |
+#   Associate professor at the Dept. of Applied Informatics
+#   and vice dean of Faculty of Physics, Mathematics and Informatics
+#   at Comenius University in Bratislava, Slovakia.
 
 # List each interest with a dash
 # interests:
@@ -74,4 +76,8 @@ user_groups:
 - Work Package Leaders
 - WP4
 ---
-**TODO**
+Martin Homola earned his PhD from Comenius University in Bratislava, Faculty of Mathematics Physics and Informatics in 2010, in the area of distributed ontologies. During 2019-2012 he was a postdoc at Fundazione Bruno Kessler, Trento, Italy, where he worked in the Data & Knowledge Management Group on contextualized knowledge representation. Consecutively he returned to his alma mater, joining the Department of Applied Informatics. He earned his habilitation in 2018. Currently he serves as the head of the KR research group, the head of the AI section of the department and as the vice-dean for IT, PR and industrial collaboration of the faculty.
+
+His current research interests include knowledge representation in general, explainable AI, and applications of knowledge representation in information security, education, and other areas.
+
+Within the TERAIS project, Martin Homola serves as the lead of WP4 concerned with the development of a departmental research support unit.
