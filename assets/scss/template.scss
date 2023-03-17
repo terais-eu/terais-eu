@@ -75,3 +75,7 @@ table {
 .article-metadata {
   letter-spacing: normal;
 }
+
+.article-style a:not(.summary-link):hover {
+  text-decoration: underline;
+}
