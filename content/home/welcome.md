@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Project TERAIS
-hero_media: terais-nico-hero.png
+hero_media: nico-ball-whitebg.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -25,15 +25,14 @@ cta_alt:
 
 <div class="mt-4 mb-3">
 
-**TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak university)
-is an international project funded by the Horizon Europe programme
-under the Twinning call that started at the beginning of October 2022.
-The ultimate goal of the TERAIS project
-is to elevate the **Department of Applied Informatics**
-at **Comenius University** in Bratislava
-to a workplace of international **academic excellence**
-in the field of cognitive robotics and artificial intelligence
-in cooperation with partners from the **University of Hamburg**
-and the **Italian Institute of Technology**.
-
+**TERAIS** (The Towards Excellent Robotics and Artificial Intelligence)
+is an international project aimed at establishing
+the Department of Applied Informatics (DAI)
+of **Comenius University in Bratislava**, Slovakia
+as a workplace of international academic excellence.
+Funded by the **Horizon Europe** programme under the Twinning call,
+TERAIS brings together experts
+from the **University of Hamburg** in Germany
+and the **Italian Institute of Technology** in Genoa
+to collaborate with scientists at DAI.
 </div>
