@@ -5,7 +5,7 @@
 
 title: TERAIS # Website name
 baseURL: 'https://terais.eu/' # Website URL
-icon: terais-triangle.png
+icon: icon.png
 
 ############################
 ## LANGUAGE
