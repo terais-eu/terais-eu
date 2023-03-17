@@ -1,6 +1,8 @@
 ---
 title: Human-Aware Artificial Systems Workshop
 
+type: event
+
 # Super-event that our event is a part of
 # event: Big Event
 # event_url: https://event.example.com/
@@ -54,7 +56,11 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: '2023-01-27T00:00:00+0200'
 
-authors: []
+authors:
+  - giulio-sandini
+  - igor-farkas
+  - hassan-ali
+
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -1,6 +1,8 @@
 ---
 title: TERAIS Opening Seminar
 
+type: event
+
 # event: Big Superevent
 #event_url: https://example.org
 
@@ -37,7 +39,11 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-01-27T00:00:00+0200'
 
-authors: []
+authors:
+  - igor-farkas
+  - giulio-sandini
+  - carlo-mazzola
+  - hassan-ali
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -80,16 +86,16 @@ no later than 4th December 2022 is required.
 
 | Time  | Event                       |
 |------:|-----------------------------|
-|  8:00 | Door opens – Morning coffee |
-|  9:00 | Opening |
-|  9:15 | **TALK 1**:  [Giulio Sandini](#giulio-sandini), [Carlo Mazzola](#carlo-mazzola) (IIT Genoa, IT)<br><cite>Cognitive Robotics for Interaction: a Human-centered Approach</cite> |
-| 10:05 | **TALK 2**: [Cornelius Weber](#cornelius-weber), [Hassan Ali](#hassan-ali) (Uni Hamburg, DE)<br><cite>Deep Neural Learning for Interactive Robots</cite> |
-| 10:55 | Coffee break (coffee, cake, sandwich) |
-| 11:20 | **TALK 3**: [Matěj Hoffmann](#matej-hoffmann), [Valentin Marcel](#valentin-marcel) (CTU Prague CZ)<br><cite>From Self-Touch and Self-Vision to Reaching Using a Deep Generative Model</cite> |
-| 12:10 | **TALK 4**: [Igor Farkaš](#igor-farkaš), [Andrej Lúčny](#andrej-lúčny) (UK Bratislava, SK)<br><cite>Elements of Cognitive Robotics in a Simulated Environment Using Neural Networks</cite> |
-| 13:00 | Closing |
-| 13:10 | Lunch & socializing |
-| 15:00 | Event end |
+|  8:00 | <small class="text-uppercase">Door opens – Morning coffee</small> |
+|  9:00 | <small class="text-uppercase">Opening</small> |
+|  9:15 | [Giulio Sandini](#giulio-sandini), [Carlo Mazzola](#carlo-mazzola) (IIT Genoa, IT)<br><cite>Cognitive Robotics for Interaction: a Human-centered Approach</cite> |
+| 10:05 | [Cornelius Weber](#cornelius-weber), [Hassan Ali](#hassan-ali) (Uni Hamburg, DE)<br><cite>Deep Neural Learning for Interactive Robots</cite> |
+| 10:55 | <small class="text-uppercase">Coffee break</small> |
+| 11:20 | [Matěj Hoffmann](#matej-hoffmann), [Valentin Marcel](#valentin-marcel) (CTU Prague CZ)<br><cite>From Self-Touch and Self-Vision to Reaching Using a Deep Generative Model</cite> |
+| 12:10 | [Igor Farkaš](#igor-farkaš), [Andrej Lúčny](#andrej-lúčny) (UK Bratislava, SK)<br><cite>Elements of Cognitive Robotics in a Simulated Environment Using Neural Networks</cite> |
+| 13:00 | <small class="text-uppercase">Closing</small> |
+| 13:10 | <small class="text-uppercase">Lunch & socializing</small> |
+| 15:00 | <small class="text-uppercase">Event end</small> |
 {class="table"}
 
 ## Invited Speakers

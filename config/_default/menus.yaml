@@ -16,12 +16,12 @@ main:
   - name: Partners
     url: partners
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Press
-    url: press
-    weight: 50
+  # - name: Events
+  #   url: event
+  #   weight: 40
+  # - name: Press
+  #   url: press
+  #   weight: 50
   - name: Contact
     url: contact
     weight: 60
