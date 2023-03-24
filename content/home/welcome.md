@@ -25,9 +25,9 @@ cta_alt:
 
 <div class="mt-4 mb-3">
 
-**TERAIS** (The Towards Excellent Robotics and Artificial Intelligence)
+**TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak university)
 is an international project aimed at establishing
-the Department of Applied Informatics (DAI)
+the Department of Applied Informatics
 of **Comenius University in Bratislava**, Slovakia
 as a workplace of international academic excellence.
 Funded by the **Horizon Europe** programme under the Twinning call,
