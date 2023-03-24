@@ -2,22 +2,16 @@
 # Display name
 title: "Igor Farkaš"
 
-aliases:
-  - /author/igor-farkas-as-transform-expert
-  - /author/igor-farkas-as-wp5-lead
-
 # Username (this should match the folder name and the name on publications)
 authors:
-- "igor-farkas"
+- "igor-farkas-as-transform-lead"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: |
-  Project Coordinator,
-  Transformation Lead Expert,
-  WP5 Systematic Development of People Leader
+  Transformation Lead Expert
 weight: 50
 
 # Organizations/Affiliations
@@ -79,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- WP5
+- Lead Experts
 ---
 Igor Farkaš holds a PhD degree in applied informatics and MSc degree in technical cybernetics, both from the Slovak University of Technology in Bratislava. In 2000-2003 he worked as a research fellow (postdoc) at the Department of Psychology, University of Richmond, VA where he worked on connectionist modeling of early lexical acquisition.
 Since 2003 he has been affiliated with the Department of Applied Informatics of the Faculty of Mathematics, Physics and Informatics, Comenius University in Bratislava, since 2014 as a full professor and the head of department. He coordinates the Cognition and Neural Computation research group, and the Centre for Cognitive Science.

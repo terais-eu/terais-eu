@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Scientific Lead Expert
-weight: 200
+weight: 300
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Project Leaders
+- Lead Experts
 - WP Coordinators
 - WP4
 - WP5

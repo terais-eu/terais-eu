@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: WP6 Project Management Leader
+role: Project Manager, WP6 Project Management Leader
 weight: 60
 
 # Organizations/Affiliations

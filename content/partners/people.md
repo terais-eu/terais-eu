@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
 
+aliases:
+  - /authors
+
 # This file represents a page section.
 headless: true
 
@@ -16,7 +19,7 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Project Leaders
+    - Lead Experts
     - Work Package Leaders
 design:
   show_interests: false

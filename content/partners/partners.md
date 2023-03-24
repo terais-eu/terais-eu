@@ -15,10 +15,10 @@ design:
 ---
 <div class="article-container">
 
-The TERAIS consortium is lead by the Department of Applied Informatics
-of **Comenius University in Bratislava**.
-The international academic partners are the **University of Hamburg** in Germany
-and the **Italian Institute of Technology** in Genoa.
+TERAIS consortium is led by the [Department of Applied Informatics](https://dai.fmph.uniba.sk)
+of [**Comenius University in Bratislava**](https://www.uniba.sk).
+The international academic partners are the [**University of Hamburg**](https://www.uni-hamburg.de) in Germany
+and the [**Italian Institute of Technology**](https://www.iit.it) in Genoa.
 
 <div class="row mt-4 align-items-center justify-content-around">
 {{< figure src="logos/ukba-bw-en.svg" alt="Comenius University in Bratislava"
