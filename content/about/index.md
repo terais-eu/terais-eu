@@ -2,12 +2,15 @@
 title: About TERAIS
 type: page
 ---
+{{< figure src="logo-vertical.png" alt="TERAIS logo"
+    lightbox="false" class="w-25 float-right mt-0 ml-3" >}}
 **TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak university)
 is an international effort aimed at establishing
 the [Department of Applied Informatics](https://dai.fmph.uniba.sk) (DAI)
 of [**Comenius University in Bratislava**](https://www.uniba.sk), Slovakia (UKBA)
 as a workplace of international academic excellence.
-Funded by the **Horizon Europe** programme under the Twinning call,
+Funded by the [**Horizon Europe**](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en)
+programme under the Twinning call,
 the project brings together experts
 from the [**University of Hamburg**](https://www.uni-hamburg.de) in Germany
 and the [**Italian Institute of Technology**](https://www.iit.it) in Genoa

@@ -4,19 +4,19 @@ name = "TERAIS"
 [light]
   # Primary
   # primary = "#ff8200"
-  primary = "#437d8f"
+  primary = "#9E2B2F"
 
   # Menu
   menu_primary = "#fff"
   menu_text = "#34495e"
   # menu_text_active = "#b45d10"
-  menu_text_active = "#117797"
+  menu_text_active = "#9E2B2F"
   menu_title = "#2b2b2b"
 
   # link = "#b45d10"
   # link_hover = "#cc690d"
-  link = "#117797"
-  link_hover = "#137da5"
+  link = "#9E2B2F"
+  link_hover = "#9E2B2F"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"

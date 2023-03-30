@@ -18,7 +18,7 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: 'Project TERAIS'
-    description: 'TERAIS (Towards Excellent Robotics and Artificial Intelligence at a Slovak university) is an international project funded by the Horizon Europe programme under the Twinning. The goal of the project is to elevate the Department of Applied Informatics at Comenius University in Bratislava to a workplace of international academic excellence in the field of cognitive robotics and artificial intelligence.'
+    description: 'TERAIS (Towards Excellent Robotics and Artificial Intelligence at a Slovak university) is an international project aimed at establishing the Department of Applied Informatics of Comenius University in Bratislava, Slovakia as a workplace of international academic excellence. Funded by the Horizon Europe programme under the Twinning call, TERAIS brings together experts from the University of Hamburg in Germany and the Italian Institute of Technology in Genoa to collaborate with scientists at DAI.'
     twitter: 'TERAIS_project'
   analytics:
     google_analytics: ''
@@ -34,7 +34,7 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_title: true
+    show_title: false
     show_language: false
     show_day_night: true
     show_search: true
