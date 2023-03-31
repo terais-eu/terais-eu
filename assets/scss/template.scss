@@ -8,6 +8,22 @@
   justify-content: center;
 }
 
+// Less obtrusive hero image caption
+.hero-caption {
+  display: block;
+  position: absolute;
+  right: 15px;
+  bottom: 0;
+  background: rgba(255,255,255,0.83333);
+  color: rgba(0, 0, 0, 0.54);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem 0 0;
+  line-height: 1.1428571429;
+}
+.hero-caption-below {
+  bottom: -1.5rem;
+  border-radius: 0 0 0.25rem 0.25rem;
+}
 
 // Smaller font size unification with bootstrap's .small
 
@@ -28,6 +44,7 @@
 
 .breadcrumb,
 .article-metadata, .article-header-caption,
+.hero-caption,
 .btn.btn-sm,
 .docs .body-footer,
 .docs-sidebar .nav > li > a,

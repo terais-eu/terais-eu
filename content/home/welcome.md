@@ -8,7 +8,10 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Project TERAIS
-hero_media: nico-color-small.png
+hero:
+  filename: nico-color-small.png
+  alt: "Robot NICO interacting with a human "
+  caption: "Image credit: Universität Hamburg"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
