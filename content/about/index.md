@@ -96,4 +96,14 @@ and contribute to the development of cutting-edge technologies
 that can have a positive impact on society.
 </p>
 
-{{% cta cta_link="/partners/" cta_text="Partners & People <i class='fas fa-chevron-right'></i>" %}}
+<p class="mt-4">
+
+The TERAIS project received funding from the HORIZON Europe programme
+under the Grant Agreement number 101079338.
+</p>
+
+{{% cta
+    cta_link="/partners/" cta_text="Partners & People <i class='fas fa-chevron-right'></i>"
+    cta_alt_link="TERAIS-DMP.pdf" cta_alt_text="Data Management Plan</i>"
+    cta_alt_icon="fas fa-file-pdf"
+%}}
