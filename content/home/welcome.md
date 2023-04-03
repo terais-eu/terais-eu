@@ -9,8 +9,8 @@ weight: 10 # Order that this section will appear.
 title: |
   Project TERAIS
 hero:
-  filename: nico-color-small.png
-  alt: "Robot NICO interacting with a human "
+  filename: nico-ball-whitebg.jpg
+  alt: "Robot NICO holding and looking at a red object"
   caption: "Image credit: Universität Hamburg"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
