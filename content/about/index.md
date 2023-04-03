@@ -104,6 +104,6 @@ under the Grant Agreement number 101079338.
 
 {{% cta
     cta_link="/partners/" cta_text="Partners & People <i class='fas fa-chevron-right'></i>"
-    cta_alt_link="TERAIS-DMP.pdf" cta_alt_text="Data Management Plan</i>"
+    cta_alt_link="D6.4_TERAIS_DataManagementPlan_v01_final" cta_alt_text="Data Management Plan</i>"
     cta_alt_icon="fas fa-file-pdf"
 %}}
