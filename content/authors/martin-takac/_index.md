@@ -15,7 +15,7 @@ weight: 10
 
 # Organizations/Affiliations
 organizations:
-- name:  Comenius University in Bratislava
+- name:  Comenius University Bratislava
   url: "https://www.uniba.sk"
 
 # # Short bio (displayed in user profile at end of posts)
@@ -74,9 +74,9 @@ user_groups:
 - Work Package Leaders
 - WP1
 ---
-Martin Takac received MSc in artificial intelligence and PhD in applied informatics from Comenius University in Bratislava, Slovakia. He has been working at the Department of Applied Informatics of the Faculty of Mathematics, Physics and Informatics, Comenius University in Bratislava since 1999, where he currently holds an associate professor position (since 2017). He teaches cognitive science and his research interest are cognitive modeling, artificial neural networks and developmental AI. After two post-doctoral stays at the University of Otago in New Zealand, he started collaborating with Soul Machines Ltd. on the development of BabyX cognitive architecture.
+Martin Takac received MSc in artificial intelligence and PhD in applied informatics from Comenius University Bratislava, Slovakia. He has been working at the Department of Applied Informatics of the Faculty of Mathematics, Physics and Informatics, Comenius University Bratislava since 1999, where he currently holds an associate professor position (since 2017). He teaches cognitive science and his research interest are cognitive modeling, artificial neural networks and developmental AI. After two post-doctoral stays at the University of Otago in New Zealand, he started collaborating with Soul Machines Ltd. on the development of BabyX cognitive architecture.
 
-He is also interested in a wider impact of AI on society and ethical aspects of cognitive technologies. He is a member of the Standing Committee on Ethics and Regulation of Artificial Intelligence at the Ministry of Investments, Regional Development and Informatization of the Slovak Republic, member of the Ethics committee for research involving human subjects at FMFI UK, member of the Ethics Board of Comenius University in Bratislava and member of the scientific board of AIslovakIA - National platform for the AI development in Slovakia.
+He is also interested in a wider impact of AI on society and ethical aspects of cognitive technologies. He is a member of the Standing Committee on Ethics and Regulation of Artificial Intelligence at the Ministry of Investments, Regional Development and Informatization of the Slovak Republic, member of the Ethics committee for research involving human subjects at FMFI UK, member of the Ethics Board of Comenius University Bratislava and member of the scientific board of AIslovakIA - National platform for the AI development in Slovakia.
 
 He is a senior member of the Cognition and Neural Computation Research Group at FMFI UK and a founding member of Slovak Cognitive Science Society.
 

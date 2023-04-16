@@ -15,7 +15,7 @@ weight: 60
 
 # Organizations/Affiliations
 organizations:
-- name:  Comenius University in Bratislava
+- name:  Comenius University Bratislava
   url: "https://www.uniba.sk"
 
 # # Short bio (displayed in user profile at end of posts)
@@ -74,6 +74,6 @@ user_groups:
 - Work Package Leaders
 - WP6
 ---
-Daniela holds MA in psychology from the Comenius University in Bratislava, Slovakia and PhD from the Masaryk University in Brno, Czech Republic. Her previous international academic affiliation comprise also University of Hartford, USA (Fulbright program); William Davidson Institute/University of Michigan (Strategic Management Program - Teeter scholarship) and Blaise Pascal University at Clermont-Ferrand, France. She is an experienced project manager and consultant with more than 15 years of practice in supervising and facilitating preparation and implementation of R&D, advisory and international cooperation projects, including those funded from the EU funds. In addition, she participated in several projects focusing on innovation (e.g., open innovation, social innovation, regional innovation systems), socio-economic development (e.g., labour market, skills, microfinance, social capital, impact measurement, social enterprises) and international collaboration in the CEE region (namely Montenegro, Serbia, Croatia, Romania, Bulgaria and Russia). She is an active supporter of developing connections and collaboration among different sectors. To date, she has served as a consultant for institutions of the EU, Slovak central and regional government, UNDP and currently also PwC in Slovakia.
+Daniela holds MA in psychology from the Comenius University Bratislava, Slovakia and PhD from the Masaryk University in Brno, Czech Republic. Her previous international academic affiliation comprise also University of Hartford, USA (Fulbright program); William Davidson Institute/University of Michigan (Strategic Management Program - Teeter scholarship) and Blaise Pascal University at Clermont-Ferrand, France. She is an experienced project manager and consultant with more than 15 years of practice in supervising and facilitating preparation and implementation of R&D, advisory and international cooperation projects, including those funded from the EU funds. In addition, she participated in several projects focusing on innovation (e.g., open innovation, social innovation, regional innovation systems), socio-economic development (e.g., labour market, skills, microfinance, social capital, impact measurement, social enterprises) and international collaboration in the CEE region (namely Montenegro, Serbia, Croatia, Romania, Bulgaria and Russia). She is an active supporter of developing connections and collaboration among different sectors. To date, she has served as a consultant for institutions of the EU, Slovak central and regional government, UNDP and currently also PwC in Slovakia.
 
 Within the TERAIS project she serves as the leader of WP6 Project Management.

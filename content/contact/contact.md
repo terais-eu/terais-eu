@@ -47,7 +47,7 @@ content:
      link: https://www.researchgate.net/profile/Project-Terais
    - icon: facebook
      icon_pack: fab
-     name: 'Department of Applied Informatics - Comenius University in Bratislava'
+     name: 'Department of Applied Informatics - Comenius University Bratislava'
      link: 'https://www.facebook.com/profile.php?id=100090422512039'
 
   # Automatically link email and phone or display as text?
