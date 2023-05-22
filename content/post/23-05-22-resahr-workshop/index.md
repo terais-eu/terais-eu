@@ -62,8 +62,10 @@ projects:
 
 ## Program
 
-See the [IIT Workshop page](https://contact.iit.it/tsc-2023-workshop)
-for talk abstracts & speaker's bios.
+See the [workshop page](https://contact.iit.it/tsc-2023-workshop)
+at the Italian Institute of Technology website,
+for talk abstracts, speaker's bios,
+and a form for contributing to the Roundtable.
 
 | Time | Title | Speaker(s) |
 |-----:|-------|------------|
@@ -73,9 +75,10 @@ for talk abstracts & speaker's bios.
 | 18:10 | <small class="text-uppercase">Coffee Break</small> |   |   |
 | 18:20 | Self-Aware Robots: A constructivist Approach | [R. Chatila](https://www.isir.upmc.fr/personnel/chatila/) – ISIR, Sorbonne University (FR) |
 | 18:50 | Consciousness in the absence of behavior: a neurophysiological account | [S. Sarasso](https://www.unimi.it/it/ugov/person/simone-sarasso) – University of Milan (IT) |
-| 19:20 | Roundtable | [Carlo Mazzola (Chair)](https://www.iit.it/it/web/guest/people-details/-/people/carlo-mazzola), [M. Asada](http://www.er.ams.eng.osaka-u.ac.jp/asadalab/), [R. Chatila](https://www.isir.upmc.fr/personnel/chatila/), [S. Gallagher](https://www.memphis.edu/philosophy/people/bios/shaun-gallagher.php), [G. Sandini](https://www.iit.it/people-details/-/people/giulio-sandini), [S. Sarasso](https://www.unimi.it/it/ugov/person/simone-sarasso) |
+| 19:20 | Roundtable* | [Carlo Mazzola (Chair)](https://www.iit.it/it/web/guest/people-details/-/people/carlo-mazzola), [M. Asada](http://www.er.ams.eng.osaka-u.ac.jp/asadalab/), [R. Chatila](https://www.isir.upmc.fr/personnel/chatila/), [S. Gallagher](https://www.memphis.edu/philosophy/people/bios/shaun-gallagher.php), [G. Sandini](https://www.iit.it/people-details/-/people/giulio-sandini), [S. Sarasso](https://www.unimi.it/it/ugov/person/simone-sarasso) |
 | 20:00 | <small class="text-uppercase">Workshop end</small> |   |   |
 {.table}
 
-See also the [seminar page](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/about/news/20230512-terais-seminar-hamburg.html)
-at the University of Hamburg website.
+* See also the [workshop page](https://contact.iit.it/tsc-2023-workshop)
+at the Italian Institute of Technology website,
+where you can send your contributions to the discussion.
