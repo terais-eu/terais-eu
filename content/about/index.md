@@ -16,7 +16,7 @@ from the [**University of Hamburg**](https://www.uni-hamburg.de) in Germany
 and the [**Italian Institute of Technology**](https://www.iit.it) in Genoa
 to collaborate with scientists at UKBA.
 
-{{< figure src="logos/eu-co-funded-v-pos-en.svg" alt="Co-funded by the European Union"
+{{< figure src="logos/EN_fundedbyEU_VERTICAL_RGB_POS.svg" alt="Funded by the European Union"
     lightbox="false" class="w-25 float-right mt-0 ml-3"
     link="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en" >}}
 The project has four key pillars,
