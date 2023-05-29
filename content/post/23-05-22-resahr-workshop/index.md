@@ -13,12 +13,6 @@ location: TSC 2023 – Palazzo dei congressi, Taormina (ME), Italy
 #   region: ME
 #   country: Italy
 
-summary: |
-  Today, IIT partner organises workshop on The Role of Embodiment In Self-Aware Humans and Robots. Join us as we dive into the cutting-edge self-aware humans and robots and impactful interdisciplinary research conducted under the HORIZON initiative. This webinar brings together leading experts and leaders from various fields to discuss the topic and share valuable insights. Whether you are a researcher, industry professional, or simply curious about the latest innovations, this event offers a unique opportunity to expand your knowledge and engage in meaningful discussions.
-
-abstract: |
-  Given the deep and complex nature of consciousness and, in general, what is related to self-awareness, the endeavor to simplify and implement such phenomena on artificial agents may likely result in severe reductionism. Nevertheless, too high is their relevance for artificial embodied systems. Autonomous control and behaviors, fluent and effective interaction with the environment, as well as meaningful and trustworthy relations with humans, require robots to have a sense of self. Hence, the impasse calls for interdisciplinary research and respectfully comprehending other perspectives. This workshop wants to gather different approaches – from neurosciences, robotics, and philosophy – concentrating attention on the role of the body in self-awareness. The body is the core of identity, personal history, and interaction with the external world. Also, albeit different in its nature, it makes robots more comparable to humans. At the intersection of different disciplines, this workshop aims to emphasize the importance of the topic, show recent developments, and promote further collaborative research. 
-
 # Event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-05-22T17:00:00+0200'
@@ -59,6 +53,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+## Abstract
+
+Given the deep and complex nature of consciousness and, in general, what is related to self-awareness, the endeavor to simplify and implement such phenomena on artificial agents may likely result in severe reductionism. Nevertheless, too high is their relevance for artificial embodied systems. Autonomous control and behaviors, fluent and effective interaction with the environment, as well as meaningful and trustworthy relations with humans, require robots to have a sense of self. Hence, the impasse calls for interdisciplinary research and respectfully comprehending other perspectives. This workshop wants to gather different approaches – from neurosciences, robotics, and philosophy – concentrating attention on the role of the body in self-awareness. The body is the core of identity, personal history, and interaction with the external world. Also, albeit different in its nature, it makes robots more comparable to humans. At the intersection of different disciplines, this workshop aims to emphasize the importance of the topic, show recent developments, and promote further collaborative research.
 
 ## Program
 

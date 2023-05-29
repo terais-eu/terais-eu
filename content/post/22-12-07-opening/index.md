@@ -21,15 +21,6 @@ summary: |
   with invited speakers from TERAIS project partners
   and Czech Technical University in Prague.
 
-abstract: |
-  The opening event of the TERAIS EU project will be a **seminar on cognitive robotics**.
-  The list of invited speakers of the seminar includes
-  Prof. [Giulio Sandini](#giulio-sandini) from IIT Genoa,
-  Dr. [Cornelius Weber](#cornelius-weber) from the University of Hamburg,
-  Assoc. Prof. [Matěj Hoffmann](#matej-hoffmann) from CTU in Prague,
-  and Prof. [Igor Farkaš](#igor-farkaš)
-  and Dr. [Andrej Lúčny](#andrej-lúčny) from Comenius University.
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-12-07T08:00:00+0200'
@@ -73,6 +64,14 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+The opening event of the TERAIS EU project will be a **seminar on cognitive robotics**.
+The list of invited speakers of the seminar includes
+Prof. [Giulio Sandini](#giulio-sandini) from IIT Genoa,
+Dr. [Cornelius Weber](#cornelius-weber) from the University of Hamburg,
+Assoc. Prof. [Matěj Hoffmann](#matej-hoffmann) from CTU in Prague,
+and Prof. [Igor Farkaš](#igor-farkaš)
+and Dr. [Andrej Lúčny](#andrej-lúčny) from Comenius University.
+
 The seminar is free of charge for participants,
 but due to the limited capacity a registration
 no later than 4th December 2022 is required.

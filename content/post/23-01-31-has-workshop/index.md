@@ -21,32 +21,6 @@ summary: |
   is hosting the second TERAIS event,
   the [Human-Aware Artificial Systems Workshop](https://www.iit.it/it/web/cognitive-architecture-for-collaborative-technologies/has-workshop).
 
-abstract: |
-  The development of artificial intelligent systems as interactive instruments
-  and collaborators of human well-being requires them to be designed on a
-  human scale. To this aim, human awareness can be considered the system’s
-  capability to interpret human behavior and be sensitive to their inner
-  states, such as beliefs, emotions, or intentions. At the intersection of
-  Cognitive Robotics, Machine Learning, and Human-Robot Interaction, this
-  approach suggests that the robot should maintain a model of humans to
-  understand, predict and anticipate their actions, needs and limitations.
-  Informed of this, artificial systems could understand information more or
-  less covertly expressed in human behavior. Also, this would allow robots to
-  communicate and cooperate in ways that are intuitive for the human partner.
-  From this perspective, human awareness is open to two other crucial
-  features: explainability and trustworthiness. Human users need to understand
-  how machines reach their decisions. This also concerns human-robot
-  interaction, where explainable robotic behavior supports trust and safety
-  from the human perspective. Mutual reliance and trustworthy interactions are
-  allowed by mutual knowledge of the parties. Only by developing artificial
-  systems with abilities to comprehend humans and to be comprehensible by
-  them, the quest for a human-centered technology will be achieved. The
-  workshop about this topic is promoted by the European twinning project
-  TERAIS (Towards Excellent Robotics and Artificial Intelligence at a Slovak
-  university), whose research aims to promote cognitive robotics and
-  human-robot interaction through the following three pillars: human
-  awareness, explainability, and trustworthiness.
-
 # Event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-01-31T08:00:00+0200'
@@ -91,6 +65,31 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+The development of artificial intelligent systems as interactive instruments
+and collaborators of human well-being requires them to be designed on a
+human scale. To this aim, human awareness can be considered the system’s
+capability to interpret human behavior and be sensitive to their inner
+states, such as beliefs, emotions, or intentions. At the intersection of
+Cognitive Robotics, Machine Learning, and Human-Robot Interaction, this
+approach suggests that the robot should maintain a model of humans to
+understand, predict and anticipate their actions, needs and limitations.
+Informed of this, artificial systems could understand information more or
+less covertly expressed in human behavior. Also, this would allow robots to
+communicate and cooperate in ways that are intuitive for the human partner.
+From this perspective, human awareness is open to two other crucial
+features: explainability and trustworthiness. Human users need to understand
+how machines reach their decisions. This also concerns human-robot
+interaction, where explainable robotic behavior supports trust and safety
+from the human perspective. Mutual reliance and trustworthy interactions are
+allowed by mutual knowledge of the parties. Only by developing artificial
+systems with abilities to comprehend humans and to be comprehensible by
+them, the quest for a human-centered technology will be achieved.
+
+The workshop about this topic is promoted by the European twinning project
+TERAIS (Towards Excellent Robotics and Artificial Intelligence at a Slovak
+university), whose research aims to promote cognitive robotics and
+human-robot interaction through the following three pillars: human
+awareness, explainability, and trustworthiness.
 
 ## Program
 

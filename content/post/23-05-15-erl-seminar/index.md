@@ -25,21 +25,6 @@ summary: |
   During the seminar, multiple topics related to machine learning methods,
   robotic learning, and computer vision will be presented and discussed.
 
-abstract: |
-  The [Knowledge Technology group](https://www.inf.uni-hamburg.de/en/inst/ab/wtm.html)
-  at the University of Hamburg is holding the seminar
-  “Explainability and Robot Learning”,
-  promoted by the Horizon Europe project [TERAIS](https://terais.eu/).
-  The seminar will bring together several international senior academics
-  as well as younger researchers.
-  During the seminar, multiple topics related to machine learning methods,
-  robotic learning, and computer vision will be presented and discussed.
-  The main audience of the seminar will be
-  the project and scientific staff of the three partner institutes
-  as well as M.Sc. and Ph.D. students.
-  The seminar will take place in presence,
-  with a hybrid mode for wider communication and dissemination.
-
 # Event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-05-16T14:00:00+0200'
@@ -81,6 +66,20 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+The [Knowledge Technology group](https://www.inf.uni-hamburg.de/en/inst/ab/wtm.html)
+at the University of Hamburg is holding the seminar
+“Explainability and Robot Learning”,
+promoted by the Horizon Europe project [TERAIS](https://terais.eu/).
+The seminar will bring together several international senior academics
+as well as younger researchers.
+During the seminar, multiple topics related to machine learning methods,
+robotic learning, and computer vision will be presented and discussed.
+The main audience of the seminar will be
+the project and scientific staff of the three partner institutes
+as well as M.Sc. and Ph.D. students.
+The seminar will take place in presence,
+with a hybrid mode for wider communication and dissemination.
 
 ## Program
 
