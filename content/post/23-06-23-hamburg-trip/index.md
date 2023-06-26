@@ -9,6 +9,54 @@ featured: true
 image:
     filename: albums/23-06-23-hamburg-trip/ZDSC4166.jpg
     focal_point: center
+
+gallery_item:
+- album: 23-06-23-hamburg-trip
+  image: IMG_4805.jpg
+  caption: University of Hamburg master’s program presentation
+- album: 23-06-23-hamburg-trip
+  image: IMG_4829.jpg
+  caption: Prof. Stefan Wermter opens the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4831.jpg
+  caption: Alessandra Sciutti presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4847.jpg
+  caption: Kristína Malinovská presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4856.jpg
+  caption: Andrej Lúčny presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4868.jpg
+  caption: Pavel Petrovič presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4874.jpg
+  caption: Štefan Pócoš presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4882.jpg
+  caption: Iveta Bečková presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4887.jpg
+  caption: Viktor Kocur presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4895.jpg
+  caption: Lukáš Gajdošech presents at the Explainability and Robot Learning seminar
+- album: 23-06-23-hamburg-trip
+  image: IMG_4912.jpg
+  caption: Connor Gäde's presentation
+- album: 23-06-23-hamburg-trip
+  image: IMG_4917.jpg
+  caption: Visiting the laboratories of the Knowledge Technology Groups at the University of Hamburg
+- album: 23-06-23-hamburg-trip
+  image: IMG_4933.jpg
+  caption: Visiting the laboratories of the Knowledge Technology Groups at the University of Hamburg
+- album: 23-06-23-hamburg-trip
+  image: IMG_4935.jpg
+  caption: Visiting the laboratories of the Knowledge Technology Groups at the University of Hamburg
+- album: 23-06-23-hamburg-trip
+  image: ZDSC4166.jpg
+  caption: Group photo of field trip participants and hosts
+
 ---
 TERAIS project team took part in another field trip this year. This time to
 the vibrant city of Hamburg. This trip was a fantastic opportunity for the
