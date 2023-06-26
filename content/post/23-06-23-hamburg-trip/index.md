@@ -1,13 +1,14 @@
 ---
 title: "Field Trip at University of Hamburg: Expansion of Project Partnership and Exploration of Collaborative Research"
 date: 2023-06-23
+lastmod: 2023-06-26
 
 # Set to true to display this item on the home page
 featured: true
 
 image:
-    file-name: featured.jpg
-    focus-point: center
+    filename: albums/23-06-23-hamburg-trip/ZDSC4166.jpg
+    focal_point: center
 ---
 TERAIS project team took part in another field trip this year. This time to
 the vibrant city of Hamburg. This trip was a fantastic opportunity for the
@@ -64,3 +65,8 @@ TERIAS project.
 Stay tuned for updates on our ongoing research, collaborations, and the
 exciting outcomes that emerge from TERAIS project. Together, we are shaping
 the future of cognitive science research and AI research. 
+
+## Field Trip Gallery
+
+<!-- See https://wowchemy.com/docs/content/writing-markdown-latex/#image-gallery -->
+{{< gallery album="23-06-23-hamburg-trip" >}}
