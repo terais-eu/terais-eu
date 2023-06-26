@@ -17,15 +17,15 @@ rich research which the University of Hamburg has to offer.
 
 <!--more-->
 
-One of the key components of the field trip was a webinar on the
-Explainability and Robot Learning. This webinar brought together senior
-academics as well as younger researchers in order to present and discuss
-various topics related to machine learning methods, robotic learning, and
-computer vision. The webinar grouped students, project and scientific staff
-of the three partner universities in order to deepen their relationship and
-cooperation.
+One of the key components of the field trip was a hybrid-mode seminar on the
+[Explainability and Robot Learning]({{< relref "../23-05-15-erl-seminar/" >}}).
+This seminar brought together senior academics as well as younger
+researchers in order to present and discuss various topics related to
+machine learning methods, robotic learning, and computer vision.
+The seminar grouped students, project and scientific staff of the three
+partner universities in order to deepen their relationship and cooperation.
 
-In addition to the webinar, the project team had the privilege of visiting
+In addition to the seminar, the project team had the privilege of visiting
 cutting-edge laboratories and work stations in the University of Hamburg.
 The visit allowed partners and staff to first-hand witness the
 ground-breaking research at the University and further built on the research
