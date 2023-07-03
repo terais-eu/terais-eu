@@ -22,6 +22,9 @@ main:
   # - name: Press
   #   url: press
   #   weight: 50
+  - name: Gallery
+    url: gallery
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
