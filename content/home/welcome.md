@@ -22,7 +22,7 @@ cta:
   label: Learn more
   url: ./about/
 cta_alt:
-  label: Partners & Key People
+  label: Partners & People
   url: ./partners/
 ---
 
