@@ -7,7 +7,7 @@ lastmod: 2023-06-26
 featured: true
 
 image:
-    filename: albums/23-06-23-hamburg-trip/ZDSC4166.jpg
+    filename: DSC4166_cut.jpg
     focal_point: center
 
 gallery_item:
@@ -25,7 +25,7 @@ gallery_item:
   caption: Kristína Malinovská presents at the Explainability and Robot Learning seminar
 - album: 23-06-23-hamburg-trip
   image: IMG_4856.jpg
-  caption: Andrej Lúčny presents at the Explainability and Robot Learning seminar
+  caption: Hassan Ali (left) introduces Andrej Lúčny's (right) presentation at the Explainability and Robot Learning seminar
 - album: 23-06-23-hamburg-trip
   image: IMG_4868.jpg
   caption: Pavel Petrovič presents at the Explainability and Robot Learning seminar
@@ -53,9 +53,6 @@ gallery_item:
 - album: 23-06-23-hamburg-trip
   image: IMG_4935.jpg
   caption: Visiting the laboratories of the Knowledge Technology Groups at the University of Hamburg
-- album: 23-06-23-hamburg-trip
-  image: ZDSC4166.jpg
-  caption: Group photo of field trip participants and hosts
 
 ---
 TERAIS project team took part in another field trip this year. This time to
