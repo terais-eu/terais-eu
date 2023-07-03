@@ -96,3 +96,33 @@ table {
 .article-style a:not(.summary-link):hover {
   text-decoration: underline;
 }
+
+
+// Gallery fix
+
+// .article-style has overflow: hidden, which is probably useful,
+// but it clips gallery items' shadows. This may or may not be a good fix.
+// 20px is the padding of .article-container,
+// should not cause any scrolling trouble.
+.article-style {
+  padding: 0 20px 25px 20px;
+  margin: 0 -20px;
+}
+
+.gallery-grid {
+  grid-gap: 2rem;
+}
+
+.gallery-item {
+  overflow: hidden; // Needed in Chrome
+  // Subtler and faster transition on hover:
+  box-shadow: 0 2px 10px 0 rgba(68, 68, 68, 0.5);
+  transition: box-shadow 0.15s ease-in;
+  //tranform: faster than originally: transform 0.15s ease-in;
+}
+
+.gallery-item:hover {
+  // Subtler and faster transition on hover:
+  transform: none; // this might be more acceptable: scale(1.0125);
+  box-shadow: 0px 5px 20px 0 rgba(68, 68, 68, 0.65);
+}
