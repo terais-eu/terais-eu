@@ -11,7 +11,7 @@ title: |
 hero:
   filename: PANA5769wb.jpg
   alt: "Robot NICO and a human performing the pinky swear gesture"
-  caption: "Image credit: Universität Hamburg"
+  caption: "Image credit: Stanislav Griguš"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
