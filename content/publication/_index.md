@@ -1,7 +1,7 @@
 ---
 title: Publications
 
-draft: true
+# draft: true
 
 # Listing view
 view: citation
