@@ -14,6 +14,7 @@ all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: '2023-05-29T00:00:00+0200'
+lastmod: '2023-10-02T22:00:00+0200'
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -25,7 +26,7 @@ location: Smolenice Castle, Slovakia and [online](https://msteams.link/D8MA)
 #   country: Slovakia
 
 summary: |
-  The TERAIS project is a part of this year's Kognícia a umelý život (Cognition and Artificial Life), an interdisciplinary scientific conference with a 20-year tradition, connecting scientists mainly from Czechia and Slovakia, focused on cognitive science and artificial intelligence. As part of the TERAIS project we introduce invited speaker Alistair Knott with the topic “How can we avoid confusion in the global conversation about AI regulation?” and we invite you to attend his lecture on Friday, June 2 at 9:00 a.m. online at https://msteams.link/D8MA.
+  The TERAIS project is a part of this year's Kognícia a umelý život (Cognition and Artificial Life), an interdisciplinary scientific conference with a 20-year tradition, connecting scientists mainly from Czechia and Slovakia, focused on cognitive science and artificial intelligence. As part of the TERAIS project we introduce invited speaker Alistair Knott with the topic “How can we avoid confusion in the global conversation about AI regulation?” and we invite you to attend his lecture on Friday, June 2 at 9:00 a.m. online at https://msteams.link/D8MA. Recording of the webinar is now available on [YouTube](https://www.youtube.com/watch?v=pQdkK_sLD0E).
 ---
   
 {{< figure src="portrait-aliknott.jpg" alt="TERAIS logo"
@@ -46,3 +47,13 @@ Alistair Knott works in the areas of Cognitive Science and Artificial Intelligen
 Ali has always been interested in the ethics and social impacts of AI. At Otago, he co-founded the Centre for AI and Public Policy, where he conducted research on Government uses of AI in New Zealand, and on the impact of AI on jobs and work in New Zealand. In Wellington, he coordinates a regular seminar on AI and Society, bringing together experts from many university departments with government stakeholders. Beyond New Zealand, Ali is a member of the Global Partnership on AI’s Responsible AI Working Group, where (with Dino Pedreschi) he co-leads a project on social media governance, focussing on recommender systems, harmful content classifiers and large language models. Ali has also contributed to the Christchurch Call’s Algorithms Workstream, and has participated in working groups at the Global Internet Forum to Counter Terrorism. 
 
 Ali also works in the AI industry. He joined the NZ-based AI company Soul Machines as an academic contractor when it was founded in 2016. At Soul Machines, Ali works with his eminent colleague Martin Takac on a large-scale project to build a simulated embodied brain, for use in the company’s main product (a human-computer dialogue system), and also in a research system (a simulated baby, BabyX). Ali also has primary responsibility for the company’s ethics policy. 
+
+
+## Recording
+
+A [recording of Ali’s webinar](https://www.youtube.com/watch?v=pQdkK_sLD0E) is available on YouTube and can be viewed below.
+
+{{< youtube id="pQdkK_sLD0E"
+   title="TERAIS Webinar, Alistair Knott, 2.6.2023" 
+   class="embed-responsive embed-responsive-16by9 my-3" >}}
+
