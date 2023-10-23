@@ -55,13 +55,26 @@ content:
 
   # Email form provider
   # form:
-  #   provider: netlify
-  #   formspree:
-  #     id:
-  #   netlify:
-  #     # Enable CAPTCHA challenge to reduce spam?
-  #     captcha: false
+  #   # provider: netlify
+  #   # formspree:
+  #   #   id:
+  #   # netlify:
+  #   #   # Enable CAPTCHA challenge to reduce spam?
+  #   #   captcha: false
 
 design:
   columns: '1'
 ---
+
+<div class="float-md-right w-md-50 pl-0 pl-md-3 pr-0 col-md-6" style="z-index: 1;">
+<h2 class="mt-md-2">Subscribe to TERAIS newsletter</h2>
+<p>Get updates about the TERAIS project and related activities
+by the project partners directly in your inbox.</p>
+{{< mailchimp-subscribe
+  mc_u="564b7a7fdd61898e25a642887"
+  mc_id="35b9df9812"
+  mc_v_id="187"
+  mc_f_id="00a9e4e6f0"
+  legal="By clicking above to subscribe you consent to processing of the provided personal information for the sole purpose of sending you news about the TERAIS project and related activities by the project partners. You also acknowledge that your information will be transferred to Mailchimp for processing. You can unsubscribe at any time by clicking the link in the footer of our emails."
+>}}
+</div>

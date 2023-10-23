@@ -1,0 +1,45 @@
+{{/*
+    Parameters
+    ----------
+    mc_u:
+        Mailchimp form u parameter
+    mc_id:
+        Mailchimp form u parameter
+    mc_v_id:
+        Mailchimp form v_id parameter
+    mc_f_id:
+        Mailchimp form f_id parameter
+*/}}
+<div>
+  <style>div.mce_inline_error { color: #dc3545 !important; }</style>
+  <div>
+    <form action="https://terais.us21.list-manage.com/subscribe/post?u={{.Get "mc_u"}}&amp;id={{.Get "mc_id"}}&amp;v_id={{.Get "mc_v_id"}}&amp;f_id={{.Get "mc_f_id"}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+      <div>
+        <div class="mc-field-group form-group">
+          <label for="mce-EMAIL">Email <span class="asterisk text-danger">*</span></label>
+          <input type="email" name="EMAIL" class="form-control form-control-sm required email" id="mce-EMAIL" required="" value="">
+        </div>
+        <div id="mce-responses" class="clear foot">
+          <div class="response text-danger" id="mce-error-response" style="display: none;"></div>
+          <div class="response text-success" id="mce-success-response" style="display: none;"></div>
+        </div>
+        <div aria-hidden="true" style="position: absolute; left: -5000px;">
+            /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+            <input type="text" name="b_{{.Get "mc_u"}}_{{.Get "mc_id"}}" tabindex="-1" value="">
+        </div>
+        <div class="d-flex d-flex justify-content-between align-items-center">
+          <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary px-4" value="Subscribe">
+          <div class="clear foot">
+            <p style="margin: 0px auto;"><a href="http://eepurl.com/iBnNYQ" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 125px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+          </div>
+        </div>
+        {{ if (.Get "legal") }}
+        <p class="form-text small text-muted">
+          {{.Get "legal"}}
+        </p>
+        {{ end }}
+      </div>
+    </form>
+  </div>
+  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+</div>
