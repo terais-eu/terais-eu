@@ -38,6 +38,8 @@ links:
   #   url: https://arxiv.org/abs/2304.14371
   - name: Other formats
     url: https://arxiv.org/format/2304.14371
+  - name: ICANN 2023
+    url: https://e-nns.org/icann2023/
 url_pdf: https://arxiv.org/pdf/2304.14371
 # url_code: '#'
 # url_dataset: '#'

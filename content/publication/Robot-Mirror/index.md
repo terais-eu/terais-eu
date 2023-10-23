@@ -20,7 +20,9 @@ publication_types: ['3']
 publication: 'Accepted for ICANN 2023'
 # publication_short: 'ICANN 2023'
 
-abstract: TBD
+abstract: |
+  We introduce an approach to building a custom model from ready-made self-supervised models via their associating instead of training and fine-tuning. We demonstrate it with an example of a humanoid robot looking at the mirror and learning to detect the 3D pose of its own body from the image it perceives.
+  To build our model, we first obtain features from the visual input and the postures of the robot's body via models prepared before the robot's operation. Then we map their corresponding latent spaces by a sample-efficient robot's self-exploration at the mirror. In this way, the robot builds the solicited 3D pose detector, which quality is immediately perfect on the acquired samples instead of obtaining the quality gradually. The mapping, which employs associating the pairs of feature vectors, is then implemented in the same way as the key--value mechanism of the famous transformer models. Finally, deploying our model for imitation to a simulated robot allows us to study, tune up and systematically evaluate its hyperparameters without the involvement of the human counterpart, advancing our previous research.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,6 +35,9 @@ tags:
   - Comenius University Bratislava
 featured: false
 
+links:
+  - name: ICANN 2023
+    url: https://e-nns.org/icann2023/
 # links:
 #   - name: arXiv
 #     url: https://arxiv.org/abs/2305.08528

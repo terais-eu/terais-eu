@@ -1,10 +1,10 @@
 ---
-title: 'QuasiNet: a Neural Network with Trainable Product Layers'
+title: 'Controlling the Output of a Generative Model by Latent Feature Vector Shifting'
 authors:
+  - Robert Belanec
+  - Peter Lacko
   - Kristína Malinovská
-  - Slavomír Holenda
-  - Ľudovít Malinovský
-date: '2023-05-23T00:00:00Z'
+date: '2023-09-21T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -17,28 +17,26 @@ date: '2023-05-23T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Accepted for ICANN 2023'
+publication: 'Accepted for DISA 2023'
 # publication_short: 'ICANN 2023'
 
 abstract: |
-  Classical neural networks achieve only limited convergence in hard problems such as XOR or parity when the number of hidden neurons is small. With the motivation to improve the success rate of neural networks in these problems, we propose a new neural network model inspired by existing neural network models with so called product neurons and a learning rule derived from classical error backpropagation, which elegantly solves the problem of mutually exclusive situations. Unlike existing product neurons, which have weights that are preset and not adaptable, our product layers of neurons also do learn. We tested the model and compared its success rate to a classical multilayer perceptron in the aforementioned problems as well as in other hard problems such as the two spirals. Our results indicate that our model is clearly more successful than the classical MLP and has the potential to be used in many tasks and applications.
+  State-of-the-art generative models (e.g. StyleGAN3 \cite{karras2021alias}) often generate photorealistic images based on vectors sampled from their latent space. However, the ability to control the output is limited. Here we present our novel method for latent vector shifting for controlled output image modification utilizing semantic features of the generated images. In our approach we use a pre-trained model of StyleGAN3 that generates images of realistic human faces in relatively high resolution. We complement the generative model with a convolutional neural network classifier, namely ResNet34, trained to classify the generated images with binary facial features from the CelebA dataset. Our latent feature shifter is a neural network model with a task to shift the latent vectors of a generative model into a specified feature direction. We have trained latent feature shifter for multiple facial features, and outperformed our baseline method in the number of generated images with the desired feature. To train our latent feature shifter neural network, we have designed a dataset of pairs of latent vectors with and without a certain feature. Based on the evaluation, we conclude that our latent feature shifter approach was successful in the controlled generation of the StyleGAN3 generator.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Artificial Intelligence
   - Neural and Evolutionary Computing
-  - ICANN 2023
+  - Artificial Intelligence
+  - Image Processing
+  - DISA 2023
   - Comenius University Bratislava
 featured: false
 
 links:
-  - name: ICANN 2023
-    url: https://e-nns.org/icann2023/
-# links:
-#   - name: arXiv
-#     url: https://arxiv.org/abs/2305.08528
+  - name: DISA 2023
+    url: https://www.disa2023.org/
 #   - name: Other formats
 #     url: https://arxiv.org/format/2305.08528
 # url_pdf: https://arxiv.org/pdf/2305.08528
