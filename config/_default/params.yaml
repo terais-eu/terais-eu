@@ -45,7 +45,7 @@ header:
 footer:
   copyright:
     # notice: '© 2022–{year} Project TERAIS participants. This work is licensed under {license}'
-    notice: '© 2022–{year} Comenius Univesity in Bratislava, Universität Hamburg, Istituto Italiano di Tecnologia. All rights reserved.'
+    notice: '© 2022–{year} Comenius University Bratislava, Universität Hamburg, Istituto Italiano di Tecnologia. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
