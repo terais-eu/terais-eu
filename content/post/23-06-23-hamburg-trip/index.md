@@ -6,9 +6,9 @@ lastmod: 2023-06-26
 # Set to true to display this item on the home page
 featured: true
 
-image:
-    filename: DSC4166_cut.jpg
-    focal_point: center
+# image:
+#     filename: DSC4166_cut.jpg
+#     focal_point: center
 
 gallery_item:
 - album: 23-06-23-hamburg-trip
