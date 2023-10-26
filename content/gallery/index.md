@@ -3,6 +3,11 @@ title: Gallery
 
 ---
 
+## European Researchers' Night 2023 in Bratislava
+
+{{< gallery album="23-10-26-ern" >}}
+
+
 ## Hamburg Field Trip
 
 Photos from the Dept. of Applied informatics
