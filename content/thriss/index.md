@@ -1,5 +1,5 @@
 ---
-title: Thrustworthy Human-Robot Interaction Summer School
+title: Trustworthy Human-Robot Interaction Summer School
 type: page
 ---
 
