@@ -3,9 +3,11 @@ title: Thrustworthy Human-Robot Interaction Summer School
 type: page
 ---
 
+## June 10-13 2024 at Comenius University Bratislava
+
 {{< figure src="thriss.svg" alt="THRISS logo"
     lightbox="false" class="w-25 float-right mt-0 ml-3" >}}
-The **Thrustworthy Human-Robot Interaction Summer School** or **THRISS** welcomes participants from different backgrounds to meet for four days and deepen their knowledge in the interdisciplinary fields of Cognitive Robotics and Human Robot-Interaction. From Robotics Engineering to Computer Science, Social Psychology, Cognitive, and Neuroscience, etc., the Summer School is designed for Ph.D. and experienced master's students willing to meet, discover, and learn about robotic cognitive models to promote trustworthy social interactions with humans. The event is organized under the **TERAIS** project within the international collaboration among the Comenius University of Bratislava (SK), the University of Hamburg (DE), and the Italian Institute of Technology (IT). It will be held in Bratislava in June 2024. Participants will have the chance to join presentations and meetings with Keynote Speakers, practice with Workshops on Human-Robot Interaction, and expose their research at the [**MEiCogSci Student Conference**](https://www.meicogsci.eu/), connected with the Summer School. We accept your applications by **31.03.2024**, more detail on the enrolment below. 
+The **Thrustworthy Human-Robot Interaction Summer School** or **THRISS** welcomes participants from different backgrounds to meet for four days and deepen their knowledge in the interdisciplinary fields of Cognitive Robotics and Human Robot-Interaction. From Robotics Engineering to Computer Science, Social Psychology, Cognitive, and Neuroscience, etc., the Summer School is designed for Ph.D. and experienced master's students willing to meet, discover, and learn about robotic cognitive models to promote trustworthy social interactions with humans. The event is organized under the **TERAIS** project within the international collaboration among the Comenius University of Bratislava (SK), the University of Hamburg (DE), and the Italian Institute of Technology (IT). It will be held in Bratislava in June 2024. Participants will have the chance to join presentations and meetings with Keynote Speakers, practice with Workshops on Human-Robot Interaction, and expose their research at the [**MEiCogSci**](https://www.meicogsci.eu/) Student Conference, connected with the Summer School. We accept your applications by **31.03.2024**, more detail on the enrolment below. 
 
 ## Humans and Robots: from Mutual Understanding to Trust
 
@@ -23,21 +25,20 @@ Communication Chair: Hassan Ali (UHAM)
 ## Invited speakers & Lecturers
 
 <div style="line-height:1.8em">
-<div style="float:left; width:50%">
+<div style="float:left; width:52%">
 Alessandra Sciutti (IIT, Genoa, Italy)</br>
 Andrej Lúčny (UKBA, Bratislava, Slovakia)</br>
 Bipin Indurkhya (Jagiellonian Uni, Krakow, Poland)</br>
 Carlo Mazzola (IIT, Genoa, Italy)</br>
 Marta Romeo (Heriot-Watt Uni, Edinburgh, UK)</br>
 </div>
-<div style="float:left; width:50%">
+<div style="float:left; width:48%">
 Martin Takáč (UKBA, Bratislava, Slovakia)</br>
 Matthias Kerzel (UHAM, Hamburg, Germany)</br>
 Michal Vavrečka (UKBA, Bratislava, Slovakia)</br>
 Pablo Barros (Sony, Brussels, Belgium)
 </div>
-<div style="clear: both">
-</div>
+<div style="clear: both"></div>
 </div>
 
 ## Student enrolment
@@ -58,6 +59,7 @@ As the summer school is held in English, good command of the English language is
 ### Submission Guidelines
 
 * All documents must be written in English and submitted electronically in PDF format.
-* Please send your application to <form or email - need to decide>. Include the TERAIS Summer School 2024 and applicant names in the title.
+* Please send your application to thriss2024(AT)terais.eu. Include the TERAIS Summer School 2024 and applicant names in the title.
 * Submission Deadline: **31.03.2024**
-* All complete applications will undergo a thorough selection process. Upon acceptance, you will receive an official acceptance letter via email with the offer to join the TERAIS summer school. Notifications of acceptance will be sent out by 21.04.2024. 
+* All complete applications will undergo a thorough selection process. Upon acceptance, you will receive an official acceptance letter via email with the offer to join the TERAIS summer school. 
+* Notifications of acceptance will be sent out by 21.04.2024. 
