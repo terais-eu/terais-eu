@@ -6,7 +6,7 @@ type: event
 # Super-event that our event is a part of
 event: 32nd International Conference on Artificial Neural Networks ICANN 2023 26 – 29 September 2023
 event_url: https://e-nns.org/icann2023/
-location: Hybrid - Astoria Capsis Hotel at Heraklion city, Crete, Greece and Online 
+location: "Hybrid: Astoria Capsis Hotel at Heraklion city, Crete, Greece and Online"
 # address:
 #   city: Taormina (ME)
 #   region: ME
@@ -14,8 +14,8 @@ location: Hybrid - Astoria Capsis Hotel at Heraklion city, Crete, Greece and Onl
 
 # Event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-27'
-date_end: '2023-09-27'
+date: '2023-09-27T15:00:00+0200'
+# date_end: '2023-09-27T16:45:00+0200'
 all_day: true
 
 # Schedule page publish date (NOT event date).
