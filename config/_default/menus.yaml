@@ -31,3 +31,6 @@ main:
   - name: Contact
     url: contact
     weight: 80
+  - name: THRISS
+    url: thriss
+    weight: 90
