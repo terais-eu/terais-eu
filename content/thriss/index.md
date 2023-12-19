@@ -8,7 +8,7 @@ type: page
 {{< figure src="thriss.svg" alt="THRISS logo"
     lightbox="false" class="w-25 float-right mt-0 ml-3" >}}
 
-The **Trustworthy Human-Robot Interaction Summer School** or **THRISS** welcomes participants from different backgrounds to meet for four days and deepen their knowledge in the interdisciplinary fields of Cognitive Robotics and Human Robot-Interaction. From Robotics Engineering to Computer Science, Social Psychology, Cognitive, and Neuroscience, etc., the Summer School is designed for Ph.D. and experienced master's students willing to meet, discover, and learn about robotic cognitive models to promote trustworthy social interactions with humans. The event is organized under the **TERAIS** project within the international collaboration among the Comenius University of Bratislava (SK), the University of Hamburg (DE), and the Italian Institute of Technology (IT). It will be held in Bratislava in June 2024. Participants will have the chance to join presentations and meetings with Keynote Speakers, practice with Workshops on Human-Robot Interaction, and expose their research at the [**MEiCogSci**](https://www.meicogsci.eu/) Student Conference, connected with the Summer School. We accept your applications by **31.03.2024**, more detail on the enrolment below. 
+The **Trustworthy Human-Robot Interaction Summer School** or **THRISS** welcomes participants from different backgrounds to meet for four days and deepen their knowledge in the interdisciplinary fields of Cognitive Robotics and Human Robot-Interaction. From Robotics Engineering to Computer Science, Social Psychology, Cognitive, and Neuroscience, etc., the Summer School is designed for Ph.D. and experienced master's students willing to meet, discover, and learn about robotic cognitive models to promote trustworthy social interactions with humans. The event is organized under the **TERAIS** project within the international collaboration among the Comenius University of Bratislava (SK), the University of Hamburg (DE), and the Italian Institute of Technology (IT). Participants will have the chance to join presentations and meetings with Keynote Speakers, practice with Workshops on Human-Robot Interaction, and expose their research at the [**MEiCogSci**](https://www.meicogsci.eu/) Student Conference, connected with the Summer School. We accept your applications by **31.03.2024**, more detail on the enrolment below. 
 
 ## Humans and Robots: from Mutual Understanding to Trust
 
@@ -32,7 +32,15 @@ Bipin Indurkhya (Jagiellonian University, Krakow, Poland)</br>
 Martin Takáč (Comenius University, Bratislava, Slovakia)</br>
 Matthias Kerzel (University of Hamburg, Hamburg, Germany)</br>
 Michal Vavrečka (Comenius University, Bratislava, Slovakia)</br>
-Pablo Barros (Sony, Brussels, Belgium)
+Pablo Barros (Sony Corporation, Brussels, Belgium)
+</div>
+
+## Workshops Topics (preliminary)
+<div style="line-height:1.8em">
+Sensorized robotic devices for human-aware HRI</br>
+Trustworthy computer vision for HRI</br>
+Robotics workshop with the Neuro-Inspired COmpanion (NICO) robot</br>
+AI ethics
 </div>
 
 ## Student Enrolment
