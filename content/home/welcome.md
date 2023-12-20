@@ -9,8 +9,10 @@ weight: 10 # Order that this section will appear.
 title: |
   Project TERAIS
 hero:
-  filename: PANA5769wb.jpg
-  alt: "Robot NICO and a human performing the pinky swear gesture"
+  filename: PANA5766wb.jpg # Igor
+  alt: "Robot NICO and a human shaking hands"
+  # filename: PANA5766wb.jpg # Kika
+  # alt: "Robot NICO and a human performing the pinky swear gesture"
   caption: "Image credit: Stanislav Griguš"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
