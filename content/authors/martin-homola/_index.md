@@ -15,7 +15,7 @@ weight: 40
 
 # Organizations/Affiliations
 organizations:
-- name:  Comenius University Bratislava
+- name: Comenius University Bratislava
   url: "https://www.uniba.sk"
 
 # # Short bio (displayed in user profile at end of posts)
@@ -44,11 +44,11 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: globe
-  icon_pack: far
+  icon_pack: fas
   link: 'https://dai.fmph.uniba.sk/~homola/'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=TODO
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=TODO
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:igor.farkas@fmph.uniba.sk'  # For a direct email link, use "mailto:test@example.org".

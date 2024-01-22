@@ -43,11 +43,11 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: globe
-  icon_pack: far
+  icon_pack: fas
   link: https://www.iit.it/people-details/-/people/carlo-mazzola
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=TODO
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=TODO
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'

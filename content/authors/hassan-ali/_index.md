@@ -43,11 +43,11 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: globe
-  icon_pack: far
+  icon_pack: fas
   link: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/ali.html
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=TODO
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?hl=en&user=TODO
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
