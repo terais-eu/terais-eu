@@ -1,22 +1,22 @@
 ---
 # Display name
-title: "Andrej Lúčny"
+title: "Fabio Vannucci"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "andrej-lucny"
+  - "fabio-vannucci"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: WP3 Researcher
-weight: 1250
+weight: 2210
 
 # Organizations/Affiliations
 organizations:
-- name: Comenius University Bratislava
-  url: "https://www.uniba.sk"
+  - name: Italian Institute of Technology
+    url: "https://www.iit.it"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
@@ -44,8 +44,8 @@ organizations:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://dai.fmph.uniba.sk/w/Andrej_Lucny/en
-    
+    link: https://www.iit.it/people-details/-/people/fabio-vannucci
+
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
@@ -73,11 +73,10 @@ user_groups:
   - Project Team
 ---
 
-Andrej Lúčny received his Ph.D. in applied informatics from Comenius University in Bratislava, where he works as an
-assistant professor at the Department of Applied Informatics. His research integrates methods of artificial intelligence
-and computer vision into real-time systems. He has developed a blackboard-based architecture for mobile robot control
-and applied it to studying the self-recognition of robots at the mirror and the imitation game. He is a former system
-development manager and management member in a worldwide operating SME. He designed several products for the monitoring
-market, including airport weather systems, nuclear power plant warning systems, and tire production quality checks. For
-several years he worked for EC as an evaluator of FP7/H2020 projects (Factories of Future). He is a co-founder of civil
-society Robotika.sk which deals with the popularization of robotics in Slovakia.
+Fabio Vannucci is a Postdoctoral Researcher at the Italian Institute of Technology in the unit Cognitive Architectures
+for Collaborative Technologies (CONTACT). He graduated (MS) in Computer Science Engineering at Università degli Studi di
+Genova (Italy). In 2016 he started his Ph.D. at Istituto Italiano di Tecnologia in the unit Robotics, Brain and
+Cognitive Sciences (RBCS), in which he investigated the role of motion in Human-Robot interaction and developed new
+styles of human-like movements for the robot iCub. In 2017 he has been Visiting Student at the National Institute of
+Communications and Information Technology (NICT) in Osaka, Japan, where he studied the differences in the perception of
+robot motion between Italy and Japan.

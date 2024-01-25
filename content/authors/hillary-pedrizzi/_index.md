@@ -1,22 +1,22 @@
 ---
 # Display name
-title: "Andrej Lúčny"
+title: "Hillary Pedrizzi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "andrej-lucny"
+  - "hillary-pedrizzi"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: WP3 Researcher
-weight: 1250
+weight: 1615
 
 # Organizations/Affiliations
 organizations:
-- name: Comenius University Bratislava
-  url: "https://www.uniba.sk"
+  - name: Italian Institute of Technology
+    url: "https://www.iit.it"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
@@ -44,8 +44,8 @@ organizations:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://dai.fmph.uniba.sk/w/Andrej_Lucny/en
-    
+    link: https://www.iit.it/people-details/-/people/hillary-pedrizzi
+
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
@@ -73,11 +73,13 @@ user_groups:
   - Project Team
 ---
 
-Andrej Lúčny received his Ph.D. in applied informatics from Comenius University in Bratislava, where he works as an
-assistant professor at the Department of Applied Informatics. His research integrates methods of artificial intelligence
-and computer vision into real-time systems. He has developed a blackboard-based architecture for mobile robot control
-and applied it to studying the self-recognition of robots at the mirror and the imitation game. He is a former system
-development manager and management member in a worldwide operating SME. He designed several products for the monitoring
-market, including airport weather systems, nuclear power plant warning systems, and tire production quality checks. For
-several years he worked for EC as an evaluator of FP7/H2020 projects (Factories of Future). He is a co-founder of civil
-society Robotika.sk which deals with the popularization of robotics in Slovakia.
+Hillary Pedrizzi is a master’s student in Middle European Interdisciplinary Cognitive Science program at Comenius
+University in Bratislava, at the Faculty of Mathematics, Physics, and Informatics from 2021. She received an Erasmus
+mobility scholarship to study at the University of Vienna. There, she contributed to a research project in Comparative
+Cognition, at the Konrad Lorenz Institute of Ethology.
+
+Her research interests lie in computational modeling of cognitive mechanism and in understanding cognitive dynamics
+underlying the interaction between human and non-human intelligent agents. The last interest led her to join the Italian
+Institute of Technology in Genova in the CONTACT unit, as part of TERAIS project in 2023. As a visiting researcher, she
+contributed to the Social Drawing Project focusing on investigating the social cognitive aspects related to Human-Robot
+Interaction.

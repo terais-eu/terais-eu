@@ -1,22 +1,22 @@
 ---
 # Display name
-title: "Andrej Lúčny"
+title: "Doreen Jirak"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "andrej-lucny"
+  - "doreen-jirak"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: WP3 Researcher
-weight: 1250
+weight: 1040
 
 # Organizations/Affiliations
 organizations:
-- name: Comenius University Bratislava
-  url: "https://www.uniba.sk"
+  - name: Italian Institute of Technology
+    url: "https://www.iit.it"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
@@ -44,8 +44,8 @@ organizations:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://dai.fmph.uniba.sk/w/Andrej_Lucny/en
-    
+    link: https://www.iit.it/people-details/-/people/doreen-jirak
+
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
@@ -73,11 +73,13 @@ user_groups:
   - Project Team
 ---
 
-Andrej Lúčny received his Ph.D. in applied informatics from Comenius University in Bratislava, where he works as an
-assistant professor at the Department of Applied Informatics. His research integrates methods of artificial intelligence
-and computer vision into real-time systems. He has developed a blackboard-based architecture for mobile robot control
-and applied it to studying the self-recognition of robots at the mirror and the imitation game. He is a former system
-development manager and management member in a worldwide operating SME. He designed several products for the monitoring
-market, including airport weather systems, nuclear power plant warning systems, and tire production quality checks. For
-several years he worked for EC as an evaluator of FP7/H2020 projects (Factories of Future). He is a co-founder of civil
-society Robotika.sk which deals with the popularization of robotics in Slovakia.
+Doreen obtained her diploma in Computer Science with a minor in Medicine at the University of Hamburg, Germany. She
+worked as a teaching and research associate at the Knowledge Technology Group, University of Hamburg, where she also
+accomplished her PhD.
+
+Her research is centered around the understanding of artificial neural network learning, especially in “Reservoir
+Computing”, and on nonverbal communication with special focus on gesture recognition. The overarching goals of her
+research are to link principles of learning to human-robot interaction (HRI) as a contribution to the development of
+natural HRI interactions and social robots. Doreen organized several workshops on different research topics and serves
+as reviewer and associate editor for important journals and conferences in her research field. She is currently working
+as a postdoctoral researcher at Istituto Italiano di Tecnologia.

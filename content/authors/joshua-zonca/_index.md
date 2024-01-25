@@ -1,22 +1,22 @@
 ---
 # Display name
-title: "Andrej Lúčny"
+title: "Joshua Zonca"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "andrej-lucny"
+  - "joshua-zonca"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: WP3 Researcher
-weight: 1250
+weight: 2660
 
 # Organizations/Affiliations
 organizations:
-- name: Comenius University Bratislava
-  url: "https://www.uniba.sk"
+  - name: Italian Institute of Technology
+    url: "https://www.iit.it"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
@@ -44,8 +44,8 @@ organizations:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://dai.fmph.uniba.sk/w/Andrej_Lucny/en
-    
+    link: https://www.iit.it/people-details/-/people/joshua-zonca
+
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
@@ -73,11 +73,10 @@ user_groups:
   - Project Team
 ---
 
-Andrej Lúčny received his Ph.D. in applied informatics from Comenius University in Bratislava, where he works as an
-assistant professor at the Department of Applied Informatics. His research integrates methods of artificial intelligence
-and computer vision into real-time systems. He has developed a blackboard-based architecture for mobile robot control
-and applied it to studying the self-recognition of robots at the mirror and the imitation game. He is a former system
-development manager and management member in a worldwide operating SME. He designed several products for the monitoring
-market, including airport weather systems, nuclear power plant warning systems, and tire production quality checks. For
-several years he worked for EC as an evaluator of FP7/H2020 projects (Factories of Future). He is a co-founder of civil
-society Robotika.sk which deals with the popularization of robotics in Slovakia.
+Joshua Zonca is a postdoctoral researcher at the Psychology Department of the University of Milano-Bicocca and visiting
+researcher at the CONTACT (COgNiTive Architecture for Collaborative Technologies) Unit of the Italian Institute of
+Technology (IIT). He received his Ph.D. in Cognitive Science from CIMEC - Centre for Mind/Brain sciences at the
+University of Trento. His research focuses on the cognitive and social normative mechanisms modulating human interaction
+with peers, robots and machines. Currently, he is particularly interested in the factors leading to a suboptimal use of
+valuable information for upcoming behavior and in how interaction with robots and artificial intelligence can improve
+human decision making in social scenarios.
