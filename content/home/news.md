@@ -1,31 +1,29 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
 weight: 20
-
-title: Latest News
-subtitle:
-
+title: Latest Newsss
+subtitle: null
 content:
   count: 5
   filters:
-    author: ''
-    category: ''
-    # exclude_featured: false
+    author: ""
+    category: ""
     featured_only: true
-    publication_type: ''
-    tag: ''
+    publication_type: ""
+    tag: ""
     folders:
       - post
       - event
       - press
   offset: 0
   order: desc
-  #page_type: post
+widget_id: recent-posts
 design:
   view: compact
-  columns: '2'
+  columns: "2"
   spacing:
-    padding: ["3.5rem", "0px"]
+    padding:
+      - 3.5rem
+      - 0px
 ---
