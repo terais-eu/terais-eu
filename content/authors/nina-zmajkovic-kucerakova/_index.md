@@ -15,7 +15,7 @@ weight: 70
 
 # Organizations/Affiliations
 organizations:
-- name:  Comenius University Bratislava
+- name: Comenius University Bratislava
   url: "https://www.uniba.sk"
 
 # # Short bio (displayed in user profile at end of posts)

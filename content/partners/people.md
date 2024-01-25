@@ -21,6 +21,7 @@ content:
   user_groups:
     - Lead Experts
     - Work Package Leaders
+    - Project Team
 design:
   show_interests: false
   show_role: true

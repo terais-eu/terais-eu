@@ -1,22 +1,22 @@
 ---
 # Display name
-title: "Carlo Mazzola"
+title: "Alessandra Sciutti"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "carlo-mazzola"
+  - "alessandra-sciutti"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: WP3 Achievement of Scientific Excellence Leader
-weight: 30
+role: WP3 Researcher
+weight: 1920
 
 # Organizations/Affiliations
 organizations:
-- name: Italian Institute of Technology
-  url: "https://www.iit.it"
+  - name: Italian Institute of Technology
+    url: "https://www.iit.it"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
@@ -42,12 +42,10 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: https://www.iit.it/people-details/-/people/carlo-mazzola
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=TODO
+  - icon: globe
+    icon_pack: fas
+    link: https://www.iit.it/people-details/-/people/alessandra-sciutti
+    
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
@@ -72,9 +70,20 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Work Package Leaders
-- WP3
+  - Project Team
 ---
-Carlo Mazzola is Research Fellow at the Italian Institute of Technology in the unit Cognitive Architectures for Collaborative Technologies (CONTACT), where he works for the EU-funded project TERAIS (Towards Excellent Robotics and Artificial Intelligence at a Slovak university). He graduated (MS) in Philosophy at Università Cattolica del Sacro Cuore di Milano (Italy), after a period at the Bergische Universität Wuppertal (Germany), with a thesis about the role of imagination and empathy in perception. After a period as Visiting Scientist at the Italian Institute of Technology in the CONTACT unit, in which he explored mechanisms of social perception in HRI, in 2019 he started his Ph.D. in the same institute in the unit Robotics, Brain and Cognitive Sciences (RBCS), in which he investigated and developed mechanisms of Shared Perception between humans and the humanoid robot iCub. In 2022 he has been Visiting Student at the Cognitive Robotics Lab of the University of Manchester (Department of Computer Science).
 
-Carlo Mazzola serves as the TERAIS project WP3 Achievement of Scientific Excellence Leader.
+Dr. Alessandra Sciutti is the head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) Unit of the
+Italian Institute of Technology (IIT). 
+
+After a master’s degree in Bioengineering from the University of Genova and a
+Ph.D. in Humanoid Technologies, she spent two research periods abroad, first at the Robotics Lab of the Rehabilitation
+Institute of Chicago (USA) and then at the Emergent Robotics Laboratory of Osaka University (Japan). In 2018 she was
+awarded an ERC Starting Grant, for the project wHiSPER (www.whisperproject.eu), focused on the investigation of shared
+perception between humans and robots. She published more than 100 papers in international journals and conferences and
+is currently Associate Editor for several journals on Cognitive Robotics and Human-Robot Interaction. She is the
+corresponding co-chair of the Technical Committee on Cognitive Robotics of the IEEE Robotics and Automation Society and
+a Scholar of the ELLIS Society. Sciutti received many awards, such as the title “Tecnovisionarie” (2021) and a
+recognition by Fortune Italy (2022) for her research in Robotics and AI. The scientific aim of her research is to
+investigate the sensory, motor, and cognitive mechanisms underlying human social interaction, with the technological
+goal of developing robots able to establish mutual understanding with humans. 

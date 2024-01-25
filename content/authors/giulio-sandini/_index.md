@@ -46,7 +46,7 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: globe
-  icon_pack: far
+  icon_pack: fas
   link: https://www.iit.it/people-details/-/people/giulio-sandini
 - icon: google-scholar
   icon_pack: ai

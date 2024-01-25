@@ -1,27 +1,27 @@
 ---
 # Display name
-title: "Hassan Ali"
+title: "Miroslav Cibula"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "hassan-ali"
+  - "miroslav-cibula"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: WP2 Networking and Collaboration Leader
-weight: 20
+role: WP3 Researcher
+weight: 320
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hamburg
-  url: "https://www.uni-hamburg.de"
+  - name: Comenius University Bratislava
+    url: "https://www.uniba.sk"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
-#   Research associate at the Knowledge Technology group,
-#   University of Hamburg, Germany.
+#   Research Fellow at Cognitive Architectures for Collaborative Technologies
+#   unit of the Italian Institute of Technology in Genoa.
 
 # List each interest with a dash
 # interests:
@@ -41,13 +41,11 @@ organizations:
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: globe
-  icon_pack: fas
-  link: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/ali.html
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&user=TODO
+#social:
+#  - icon: globe
+#    icon_pack: fas
+#    link: …
+
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
@@ -72,9 +70,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Work Package Leaders
-- WP2
+  - Project Team
 ---
-Hassan Ali is a research associate at the Knowledge Technology group, University of Hamburg, Germany. He has a B.Sc. degree in informatics with a major in software engineering and information systems from Tishreen University, Syria. He has completed his M.Sc. studies in the Intelligent Adaptive Systems program at the University of Hamburg. Previously, he worked as a teaching assistant at Tishreen University. His main research interests include deep learning, neural networks, cognitive robotics, human-robot interaction, and neuro-inspired gesture recognition.
 
-Hassan Ali serves as the TERAIS project WP2 Networking and Collaboration Leader.
+Miroslav is currently studying in the 3rd year of his bachelor's degree program in Applied Informatics at the Faculty of
+Mathematics, Physics, and Informatics at Comenius University Bratislava. He was involved in research in the field of
+Natural Language Processing (NLP) at the Institute of Informatics at the Slovak Academy of Sciences. Later, he worked as
+an NLP engineer and consultant for a Swiss legal-tech startup. He won an award in the European Young Scientist
+Competition for a project in the field of artificial intelligence and completed an internship at the main technical
+centre of the European Space Agency in the Netherlands. Currently, he is involved in research on causality in cognitive
+robotics at the Faculty of Mathematics, Physics, and Informatics at Comenius University in Bratislava. 

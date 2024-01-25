@@ -43,7 +43,7 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: globe
-  icon_pack: far
+  icon_pack: fas
   link: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/wermter.html
 - icon: google-scholar
   icon_pack: ai

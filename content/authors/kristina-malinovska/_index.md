@@ -1,27 +1,27 @@
 ---
 # Display name
-title: "Hassan Ali"
+title: "Kristína Malinovská"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "hassan-ali"
+  - "kristina-malinovska"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: WP2 Networking and Collaboration Leader
-weight: 20
+role: WP3 Researcher
+weight: 1350
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hamburg
-  url: "https://www.uni-hamburg.de"
+  - name: Comenius University Bratislava
+    url: "https://www.uniba.sk"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
-#   Research associate at the Knowledge Technology group,
-#   University of Hamburg, Germany.
+#   Research Fellow at Cognitive Architectures for Collaborative Technologies
+#   unit of the Italian Institute of Technology in Genoa.
 
 # List each interest with a dash
 # interests:
@@ -42,12 +42,10 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/ali.html
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&user=TODO
+  - icon: globe
+    icon_pack: fas
+    link: https://dai.fmph.uniba.sk/w/Kristina_Malinovska/en
+
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:TODO@TODO'
@@ -72,9 +70,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Work Package Leaders
-- WP2
+  - Project Team
 ---
-Hassan Ali is a research associate at the Knowledge Technology group, University of Hamburg, Germany. He has a B.Sc. degree in informatics with a major in software engineering and information systems from Tishreen University, Syria. He has completed his M.Sc. studies in the Intelligent Adaptive Systems program at the University of Hamburg. Previously, he worked as a teaching assistant at Tishreen University. His main research interests include deep learning, neural networks, cognitive robotics, human-robot interaction, and neuro-inspired gesture recognition.
 
-Hassan Ali serves as the TERAIS project WP2 Networking and Collaboration Leader.
+Kristína Malinovská is an assistant professor at the Comenius University in Bratislava. She acquired her Ph.D. in
+computer science in 2014 at the CU and did her postdoc at CTU in Prague. Her research interests are generally in
+artificial neural networks, cognitive robotics, and computational neuroscience. She teaches programming, computational
+intelligence and computational neuroscience in the MEi:CogSci master program in cognitive science in Bratislava.
