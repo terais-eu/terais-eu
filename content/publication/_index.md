@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Research & Publications
 
 # draft: true
 

@@ -22,7 +22,7 @@ main:
   # - name: Press
   #   url: press
   #   weight: 50
-  - name: Publications
+  - name: Research
     url: publication
     weight: 60
   - name: Gallery
