@@ -21,7 +21,7 @@ publication: 'World Symposium on Digital Intelligence for Systems and Machines 2
 publication_short: 'DISA 2023'
 
 abstract: |
-  State-of-the-art generative models (e.g. StyleGAN3 \cite{karras2021alias}) often generate photorealistic images based
+  State-of-the-art generative models (e.g. StyleGAN3) often generate photorealistic images based
   on vectors sampled from their latent space. However, the ability to control the output is limited. Here we present our
   novel method for latent vector shifting for controlled output image modification utilizing semantic features of the
   generated images. In our approach we use a pre-trained model of StyleGAN3 that generates images of realistic human
