@@ -4,8 +4,8 @@ authors:
   - Kristína Malinovská
   - Slavomír Holenda
   - Ľudovít Malinovský
-date: '2023-05-23T00:00:00Z'
-# doi: ''
+date: '2023-09-22T00:00:00Z'
+doi: '10.1007/978-3-031-44192-9_32'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -14,14 +14,22 @@ date: '2023-05-23T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: [ '1' ]
 
 # Publication name and optional abbreviated publication name.
 publication: 'International Conference on Artificial Neural Networks 2023'
-# publication_short: 'ICANN 2023'
+publication_short: 'ICANN 2023'
 
 abstract: |
-  Classical neural networks achieve only limited convergence in hard problems such as XOR or parity when the number of hidden neurons is small. With the motivation to improve the success rate of neural networks in these problems, we propose a new neural network model inspired by existing neural network models with so called product neurons and a learning rule derived from classical error backpropagation, which elegantly solves the problem of mutually exclusive situations. Unlike existing product neurons, which have weights that are preset and not adaptable, our product layers of neurons also do learn. We tested the model and compared its success rate to a classical multilayer perceptron in the aforementioned problems as well as in other hard problems such as the two spirals. Our results indicate that our model is clearly more successful than the classical MLP and has the potential to be used in many tasks and applications.
+  Classical neural networks achieve only limited convergence in hard problems such as XOR or parity when the number of
+  hidden neurons is small. With the motivation to improve the success rate of neural networks in these problems, we
+  propose a new neural network model inspired by existing neural network models with so called product neurons and a
+  learning rule derived from classical error backpropagation, which elegantly solves the problem of mutually exclusive
+  situations. Unlike existing product neurons, which have weights that are preset and not adaptable, our product layers
+  of neurons also do learn. We tested the model and compared its success rate to a classical multilayer perceptron in
+  the aforementioned problems as well as in other hard problems such as the two spirals. Our results indicate that our
+  model is clearly more successful than the classical MLP and has the potential to be used in many tasks and
+  applications.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
