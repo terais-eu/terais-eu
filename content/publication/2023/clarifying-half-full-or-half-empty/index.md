@@ -1,11 +1,11 @@
 ---
-title: 'Neural Field Conditioning Strategies for 2D Semantic Segmentation'
+title: 'Clarifying the Half Full or Half Empty Question: Multimodal Container Classification'
 authors:
-  - Martin Gromniak
-  - Sven Magg
+  - Josua Spisak
+  - Matthias Kerzel
   - Stefan Wermter
-date: '2023-04-12T00:00:00Z'
-doi: '10.48550/arXiv.2304.14371'
+date: '2023-09-22T00:00:00Z'
+doi: '10.1007/978-3-031-44207-0_38'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -14,33 +14,38 @@ doi: '10.48550/arXiv.2304.14371'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: [ '1' ]
 
 # Publication name and optional abbreviated publication name.
-publication: 'arXiv:2304.14371. Accepted for ICANN 2023'
-# publication_short: 'ICANN 2023'
+publication: 'International Conference on Artificial Neural Networks 2023'
+publication_short: 'ICANN 2023'
 
-abstract: Neural fields are neural networks which map coordinates to a desired signal. When a neural field should jointly model multiple signals, and not memorize only one, it needs to be conditioned on a latent code which describes the signal at hand. Despite being an important aspect, there has been little research on conditioning strategies for neural fields. In this work, we explore the use of neural fields as decoders for 2D semantic segmentation. For this task, we compare three conditioning methods, simple concatenation of the latent code, Feature Wise Linear Modulation (FiLM), and Cross-Attention, in conjunction with latent codes which either describe the full image or only a local region of the image. Our results show a considerable difference in performance between the examined conditioning strategies. Furthermore, we show that conditioning via Cross-Attention achieves the best results and is competitive with a CNN-based decoder for semantic segmentation.
+abstract: |
+  Multimodal integration is a key component of allowing robots to perceive the world. Multimodality comes with
+  multiple challenges that have to be considered, such as how to integrate and fuse the data. In this paper, we compare
+  different possibilities of fusing visual, tactile and proprioceptive data. The data is directly recorded on the NICOL
+  robot in an experimental setup in which the robot has to classify containers and their content. Due to the different
+  nature of the containers, the use of the modalities can wildly differ between the classes. We demonstrate the
+  superiority of multimodal solutions in this use case and evaluate three fusion strategies that integrate the data at
+  different time steps. We find that the accuracy of the best fusion strategy is 15% higher than the best strategy using
+  only one singular sense.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Computer Vision and Pattern Recognition
-  - Machine Learning
-  - Image and Video Processing
+  - Robotics
+  - Artificial Intelligence
   - ICANN 2023
   - University of Hamburg
 featured: false
 
 links:
-  # - name: arXiv
-  #   url: https://arxiv.org/abs/2304.14371
-  - name: Other formats
-    url: https://arxiv.org/format/2304.14371
+  - name: arXiv
+    url: https://arxiv.org/abs/2307.08471
   - name: ICANN 2023
     url: https://e-nns.org/icann2023/
-url_pdf: https://arxiv.org/pdf/2304.14371
+#url_pdf: https://arxiv.org/pdf/2307.08471
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

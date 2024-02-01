@@ -3,8 +3,8 @@ title: 'Replay to Remember: Continual Layer-Specific Fine-tuning for German Spee
 authors:
   - Theresa Pekarek Rosin
   - Stefan Wermter
-date: '2023-07-14T00:00:00Z'
-doi: '10.48550/arXiv.2307.07280'
+date: '2023-09-22T00:00:00Z'
+doi: '10.1007/978-3-031-44195-0_40'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -13,13 +13,24 @@ doi: '10.48550/arXiv.2307.07280'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: [ '1' ]
 
 # Publication name and optional abbreviated publication name.
-publication: 'arXiv:2307.07280. Accepted for ICANN 2023'
-# publication_short: 'ICANN 2023'
+publication: 'International Conference on Artificial Neural Networks 2023'
+publication_short: 'ICANN 2023'
 
-abstract: While Automatic Speech Recognition (ASR) models have shown significant advances with the introduction of unsupervised or self-supervised training techniques, these improvements are still only limited to a subsection of languages and speakers. Transfer learning enables the adaptation of large-scale multilingual models to not only low-resource languages but also to more specific speaker groups. However, fine-tuning on data from new domains is usually accompanied by a decrease in performance on the original domain. Therefore, in our experiments, we examine how well the performance of large-scale ASR models can be approximated for smaller domains, with our own dataset of German Senior Voice Commands (SVC-de), and how much of the general speech recognition performance can be preserved by selectively freezing parts of the model during training. To further increase the robustness of the ASR model to vocabulary and speakers outside of the fine-tuned domain, we apply Experience Replay for continual learning. By adding only a fraction of data from the original domain, we are able to reach Word-Error-Rates (WERs) below 5\% on the new domain, while stabilizing performance for general speech recognition at acceptable WERs.
+abstract: |
+  While Automatic Speech Recognition (ASR) models have shown significant advances with the introduction of
+  unsupervised or self-supervised training techniques, these improvements are still only limited to a subsection of
+  languages and speakers. Transfer learning enables the adaptation of large-scale multilingual models to not only
+  low-resource languages but also to more specific speaker groups. However, fine-tuning on data from new domains is
+  usually accompanied by a decrease in performance on the original domain. Therefore, in our experiments, we examine how
+  well the performance of large-scale ASR models can be approximated for smaller domains, with our own dataset of German
+  Senior Voice Commands (SVC-de), and how much of the general speech recognition performance can be preserved by
+  selectively freezing parts of the model during training. To further increase the robustness of the ASR model to
+  vocabulary and speakers outside of the fine-tuned domain, we apply Experience Replay for continual learning. By adding
+  only a fraction of data from the original domain, we are able to reach Word-Error-Rates (WERs) below 5% on the new
+  domain, while stabilizing performance for general speech recognition at acceptable WERs.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,13 +44,11 @@ tags:
 featured: false
 
 links:
-  # - name: arXiv
-  #   url: https://arxiv.org/abs/2307.07280
-  - name: Other formats
-    url: https://arxiv.org/format/2307.07280
+  - name: arXiv
+    url: https://arxiv.org/abs/2307.07280
   - name: ICANN 2023
     url: https://e-nns.org/icann2023/
-url_pdf: https://arxiv.org/pdf/2307.07280
+#url_pdf: https://arxiv.org/pdf/2307.07280
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

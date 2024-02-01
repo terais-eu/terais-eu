@@ -17,7 +17,7 @@ date: '2023-05-23T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Accepted for ICANN 2023'
+publication: 'International Conference on Artificial Neural Networks 2023'
 # publication_short: 'ICANN 2023'
 
 abstract: |

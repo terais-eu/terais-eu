@@ -1,11 +1,13 @@
 ---
-title: 'Clarifying the Half Full or Half Empty Question: Multimodal Container Classification'
+title: 'CycleIK: Neuro-inspired Inverse Kinematics'
 authors:
-  - Josua Spisak
+  - Jan-Gerrit Habekost
+  - Erik Strahl
+  - Philipp Allgeuer
   - Matthias Kerzel
   - Stefan Wermter
-date: '2023-07-17T00:00:00Z'
-doi: '10.48550/arXiv.2307.08471'
+date: '2023-09-22T00:00:00Z'
+doi: '10.1007/978-3-031-44207-0_38'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -14,13 +16,23 @@ doi: '10.48550/arXiv.2307.08471'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: [ '1' ]
 
 # Publication name and optional abbreviated publication name.
-publication: 'arXiv.2307.08471. Submitted to ICANN 2023'
-# publication_short: 'ICANN 2023'
+publication: 'International Conference on Artificial Neural Networks 2023'
+publication_short: 'ICANN 2023'
 
-abstract: Multimodal integration is a key component of allowing robots to perceive the world. Multimodality comes with multiple challenges that have to be considered, such as how to integrate and fuse the data. In this paper, we compare different possibilities of fusing visual, tactile and proprioceptive data. The data is directly recorded on the NICOL robot in an experimental setup in which the robot has to classify containers and their content. Due to the different nature of the containers, the use of the modalities can wildly differ between the classes. We demonstrate the superiority of multimodal solutions in this use case and evaluate three fusion strategies that integrate the data at different time steps. We find that the accuracy of the best fusion strategy is 15% higher than the best strategy using only one singular sense.
+abstract: |
+  The paper introduces CycleIK, a neuro-robotic approach that wraps two novel neuro-inspired methods for the 
+  inverse kinematics (IK) task, a Generative Adversarial Network (GAN), and a Multi-Layer Perceptron architecture. These
+  methods can be used in a standalone fashion, but we also show how embedding these into a hybrid neuro-genetic IK
+  pipeline allows for further optimization via sequential least-squares programming (SLSQP) or a genetic algorithm (GA).
+  The models are trained and tested on dense datasets that were collected from random robot configurations of the new
+  Neuro-Inspired COLlaborator (NICOL), a semi-humanoid robot with two redundant 8-DoF manipulators. We utilize the
+  weighted multi-objective function from the state-of-the-art BioIK method to support the training process and our
+  hybrid neuro-genetic architecture. We show that the neural models can compete with state-of-the-art IK approaches,
+  which allows for deployment directly to robotic hardware. Additionally, it is shown that the incorporation of the
+  genetic algorithm improves the precision while simultaneously reducing the overall runtime.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,13 +45,11 @@ tags:
 featured: false
 
 links:
-  # - name: arXiv
-  #   url: https://arxiv.org/abs/2307.08471
-  - name: Other formats
-    url: https://arxiv.org/format/2307.08471
+  - name: arXiv
+    url: https://arxiv.org/abs/2307.11554
   - name: ICANN 2023
     url: https://e-nns.org/icann2023/
-url_pdf: https://arxiv.org/pdf/2307.08471
+#url_pdf: https://arxiv.org/pdf/2307.11554
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

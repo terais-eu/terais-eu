@@ -17,7 +17,7 @@ doi: '10.1007/978-3-031-44207-0_50'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Accepted for ICANN 2023'
+publication: 'International Conference on Artificial Neural Networks 2023'
 publication_short: 'ICANN 2023'
 
 abstract: |
