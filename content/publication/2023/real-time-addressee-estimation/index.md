@@ -14,11 +14,11 @@ doi: '10.48550/arXiv.2311.05334'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: [ '1' ]
 
 # Publication name and optional abbreviated publication name.
-publication: '2023 International Joint Conference on Neural Networks'
-publication_short: 'ICJNN 2023'
+publication: 'Italian Conference on Robotics and Intelligent Machines 2023'
+publication_short: 'I-RIM 3D 2023'
 
 abstract: |
   Addressee Estimation is the ability to understand to whom a person is talking, a skill essential for social robots to
