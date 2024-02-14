@@ -7,21 +7,25 @@
 # This specific template is located at:
 # https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Go.gitlab-ci.yml
 
-image: peaceiris/hugo:v0.111.3
+# ------------------------------------------------------------------------------------------------------------
+# Disabling the CI for now, because gitlab.matfyz.sk doesn't have any Runners, so they would never run anyway.
+# ------------------------------------------------------------------------------------------------------------
 
-stages:
-  - build
-  - deploy
-
-build:
-  stage: build
-  script:
-    - hugo
-  artifacts:
-    paths:
-      - public
-
-deploy:
-  stage: deploy
-  script: echo "Define your deployment script!"
-  environment: production
+#image: peaceiris/hugo:v0.111.3
+#
+#stages:
+#  - build
+#  - deploy
+#
+#build:
+#  stage: build
+#  script:
+#    - hugo
+#  artifacts:
+#    paths:
+#      - public
+#
+#deploy:
+#  stage: deploy
+#  script: echo "Define your deployment script!"
+#  environment: production
