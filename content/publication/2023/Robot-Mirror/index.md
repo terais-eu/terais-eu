@@ -51,7 +51,7 @@ links:
 #     url: https://arxiv.org/abs/2305.08528
 #   - name: Other formats
 #     url: https://arxiv.org/format/2305.08528
-# url_pdf: https://arxiv.org/pdf/2305.08528
+#url_pdf: https://link.springer.com/content/pdf/10.1007/978-3-031-44207-0_39
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

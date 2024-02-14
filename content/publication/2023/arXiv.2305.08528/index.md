@@ -18,13 +18,27 @@ doi: '10.48550/arXiv.2305.08528'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: [ '3' ]
 
 # Publication name and optional abbreviated publication name.
-publication: 'arXiv:2305.08528. Accepted for ICANN 2023'
+publication: 'IEEE Access'
 # publication_short: 'ICANN 2023'
 
-abstract: Robotic platforms that can efficiently collaborate with humans in physical tasks constitute a major goal in robotics. However, many existing robotic platforms are either designed for social interaction or industrial object manipulation tasks. The design of collaborative robots seldom emphasizes both their social interaction and physical collaboration abilities. To bridge this gap, we present the novel semi-humanoid NICOL, the Neuro-Inspired COLlaborator. NICOL is a large, newly designed, scaled-up version of its well-evaluated predecessor, the Neuro-Inspired COmpanion (NICO). NICOL adopts NICO's head and facial expression display, and extends its manipulation abilities in terms of precision, object size and workspace size. To introduce and evaluate NICOL, we first develop and extend different neural and hybrid neuro-genetic visuomotor approaches initially developed for the NICO to the larger NICOL and its more complex kinematics. Furthermore, we present a novel neuro-genetic approach that improves the grasp-accuracy of the NICOL to over 99%, outperforming the state-of-the-art IK solvers KDL, TRACK-IK and BIO-IK. Furthermore, we introduce the social interaction capabilities of NICOL, including the auditory and visual capabilities, but also the face and emotion generation capabilities. Overall, this article presents for the first time the humanoid robot NICOL and, thereby, with the neuro-genetic approaches, contributes to the integration of social robotics and neural visuomotor learning for humanoid robots.
+abstract: |
+  Robotic platforms that can efficiently collaborate with humans in physical tasks constitute a major goal in robotics.
+  However, many existing robotic platforms are either designed for social interaction or industrial object manipulation
+  tasks. The design of collaborative robots seldom emphasizes both their social interaction and physical collaboration
+  abilities. To bridge this gap, we present the novel semi-humanoid NICOL, the Neuro-Inspired COLlaborator. NICOL is a
+  large, newly designed, scaled-up version of its well-evaluated predecessor, the Neuro-Inspired COmpanion (NICO). NICOL
+  adopts NICO's head and facial expression display, and extends its manipulation abilities in terms of precision, object
+  size and workspace size. To introduce and evaluate NICOL, we first develop and extend different neural and hybrid
+  neuro-genetic visuomotor approaches initially developed for the NICO to the larger NICOL and its more complex
+  kinematics. Furthermore, we present a novel neuro-genetic approach that improves the grasp-accuracy of the NICOL to
+  over 99%, outperforming the state-of-the-art IK solvers KDL, TRACK-IK and BIO-IK. Furthermore, we introduce the social
+  interaction capabilities of NICOL, including the auditory and visual capabilities, but also the face and emotion
+  generation capabilities. Overall, this article presents for the first time the humanoid robot NICOL and, thereby, with
+  the neuro-genetic approaches, contributes to the integration of social robotics and neural visuomotor learning for
+  humanoid robots.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,13 +49,9 @@ tags:
 featured: false
 
 links:
-  # - name: arXiv
-  #   url: https://arxiv.org/abs/2305.08528
-  - name: Other formats
-    url: https://arxiv.org/format/2305.08528
-  - name: ICANN 2023
-    url: https://e-nns.org/icann2023/
-url_pdf: https://arxiv.org/pdf/2305.08528
+  - name: arXiv
+    url: https://arxiv.org/abs/2305.08528
+#url_pdf: https://arxiv.org/pdf/2305.08528
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

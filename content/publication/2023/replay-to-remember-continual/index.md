@@ -44,11 +44,9 @@ tags:
 featured: false
 
 links:
-  - name: arXiv
-    url: https://arxiv.org/abs/2307.07280
   - name: ICANN 2023
     url: https://e-nns.org/icann2023/
-#url_pdf: https://arxiv.org/pdf/2307.07280
+url_pdf: https://link.springer.com/content/pdf/10.1007/978-3-031-44195-0_40
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
