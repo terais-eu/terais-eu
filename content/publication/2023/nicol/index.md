@@ -8,8 +8,8 @@ authors:
   - Jan-Gerrit Habekost
   - Manfred Eppe
   - Stefan Wermter
-date: '2023-05-23T00:00:00Z'
-doi: '10.48550/arXiv.2305.08528'
+date: '2023-11-01T00:00:00Z'
+doi: '10.1109/ACCESS.2023.3329370'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -18,7 +18,7 @@ doi: '10.48550/arXiv.2305.08528'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [ '3' ]
+publication_types: [ '2' ]
 
 # Publication name and optional abbreviated publication name.
 publication: 'IEEE Access'
@@ -49,9 +49,9 @@ tags:
 featured: false
 
 links:
-  - name: arXiv
-    url: https://arxiv.org/abs/2305.08528
-#url_pdf: https://arxiv.org/pdf/2305.08528
+  - name: IEEE Xplore
+    url: https://ieeexplore.ieee.org/document/10304130
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10304130
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
