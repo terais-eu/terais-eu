@@ -1,5 +1,5 @@
 ---
-title: 'SPIKE UP PRIME INTEREST IN SCIENCE AND TECHNOLOGY THROUGH CONSTRUCTIONIST GAMES'
+title: 'Spike Up Prime Interest in Science and Technology Through Constructionist Games'
 authors:
   - Pavel Petrovič
   - Fedor Agarshev

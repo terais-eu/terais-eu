@@ -1,5 +1,5 @@
 ---
-title: 'USING PROGRAMMABLE DRONE IN EDUCATIONAL PROJECTS AND COMPETITIONS'
+title: 'Using Programmable Drone in Educational Projects and Competitions'
 authors:
   - Pavel Petrovič
   - Peter Verčimák

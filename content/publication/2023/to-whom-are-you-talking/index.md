@@ -6,7 +6,7 @@ authors:
   - Francesco Rea
   - Alessandra Sciutti
   - Angelo Cangelosi
-date: '2023-06-18T00:00:00Z'
+date: '2023-11-09T00:00:00Z'
 doi: '10.1109/IJCNN54540.2023.10191452'
 
 # Schedule page publish date (NOT publication's date).
