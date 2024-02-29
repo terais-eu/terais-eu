@@ -1,0 +1,54 @@
+{{/*
+    Docs: https://wowchemy.com/docs/content/writing-markdown-latex/#call-to-action-buttons
+
+    Parameters
+    ----------
+    cta_text1 : optional
+        Alternate text to display in the CTA button.
+    cta_link1 : optional
+       Link to alternative action when CTA button is clicked.
+    cta_icon1 : default "fas fa-angle-right"
+       Icon of the alternative action.
+    cta_new_tab1 : optional, default "false"
+        If "true", open the alternative link in a new tab.
+    cta_text2 : optional
+        Alternate text to display in the CTA button.
+    cta_link2 : optional
+       Link to alternative action when CTA button is clicked.
+    cta_icon2 : default "fas fa-angle-right"
+       Icon of the alternative action.
+    cta_new_tab2 : optional, default "false"
+        If "true", open the alternative link in a new tab.
+    cta_text3 : optional
+        Alternate text to display in the CTA button.
+    cta_link3 : optional
+       Link to alternative action when CTA button is clicked.
+    cta_icon3 : default "fas fa-angle-right"
+       Icon of the alternative action.
+    cta_new_tab3 : optional, default "false"
+        If "true", open the alternative link in a new tab.
+*/}}
+
+<ul class="cta-group">
+  {{ if (.Get "cta_text1") }}
+  <li>
+    <a href="{{.Get "cta_link1"}}" {{if eq (.Get "cta_new_tab1") "true" }}target="_blank" rel="noopener"{{end}} class="btn btn-primary px-3 py-3">
+    {{ (.Get "cta_text1") | markdownify | emojify }} <i class="{{.Get "cta_icon1" | default "fas fa-angle-right"}}"></i>
+    </a>
+  </li>
+  {{ end }}
+  {{ if (.Get "cta_text2") }}
+  <li>
+    <a href="{{.Get "cta_link2"}}" {{if eq (.Get "cta_new_tab2") "true" }}target="_blank" rel="noopener"{{end}}>
+      {{ (.Get "cta_text2") | markdownify | emojify }} <i class="{{.Get "cta_icon2" | default "fas fa-angle-right"}}"></i>
+    </a>
+  </li>
+  {{end}}
+  {{ if (.Get "cta_text3") }}
+  <li>
+    <a href="{{.Get "cta_link3"}}" {{if eq (.Get "cta_new_tab3") "true" }}target="_blank" rel="noopener"{{end}}>
+      {{ (.Get "cta_text3") | markdownify | emojify }} <i class="{{.Get "cta_icon3" | default "fas fa-angle-right"}}"></i>
+    </a>
+  </li>
+  {{end}}
+</ul>

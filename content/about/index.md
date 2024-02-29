@@ -101,8 +101,8 @@ The TERAIS project received funding from the HORIZON Europe programme
 under the Grant Agreement number 101079338.
 </p>
 
-{{% cta
-cta_link="TERAIS_DMP_v02.pdf" cta_text="Data Management Plan <i class='fas fa-file-pdf'></i>"
-cta_alt_link="TERAIS_DMP_Annex1_v01.pdf" cta_alt_text="DMP Annex 1</i>"
-cta_alt_icon="fas fa-file-pdf"
+{{% cta3
+cta_link1="/partners/" cta_text1="Partners & People" cta_new_tab1="false"
+cta_link2="TERAIS_DMP_v02.pdf" cta_text2="Data Management Plan" cta_icon2="fas fa-file-pdf" cta_new_tab2="true"
+cta_link3="TERAIS_DMP_Annex1_v01.pdf" cta_text3="DMP Annex 1" cta_icon3="fas fa-file-pdf" cta_new_tab3="true"
 %}}
