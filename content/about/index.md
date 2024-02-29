@@ -1,15 +1,18 @@
 ---
 title: About TERAIS
 type: page
+type: page
 ---
+
 {{< figure src="logo-vertical.png" alt="TERAIS logo"
-    lightbox="false" class="w-25 float-right mt-0 ml-3" >}}
+lightbox="false" class="w-25 float-right mt-0 ml-3" >}}
 **TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak university)
 is an international effort aimed at establishing
 the [Department of Applied Informatics](https://dai.fmph.uniba.sk) (DAI)
 of [**Comenius University Bratislava**](https://www.uniba.sk), Slovakia (UKBA)
 as a workplace of international academic excellence.
-Funded by the [**Horizon Europe**](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en)
+Funded by the [**Horizon Europe
+**](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en)
 programme under the Twinning call,
 the project brings together experts
 from the [**University of Hamburg**](https://www.uni-hamburg.de) in Germany
@@ -17,8 +20,8 @@ and the [**Italian Institute of Technology**](https://www.iit.it) in Genoa
 to collaborate with scientists at UKBA.
 
 {{< figure src="logos/EN_fundedbyEU_VERTICAL_RGB_POS.svg" alt="Funded by the European Union"
-    lightbox="false" class="w-25 float-right mt-0 ml-3"
-    link="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en" >}}
+lightbox="false" class="w-25 float-right mt-0 ml-3"
+link="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en" >}}
 The project has four key pillars,
 the development of people,
 international networking,
@@ -30,7 +33,6 @@ to the development of trustworthy and human-friendly robots.
 The project will also focus on enhancing the human capital development
 and research support structures at UKBA
 and building long-term international research partnerships.
-
 
 ## Research excellence
 
@@ -46,7 +48,6 @@ between the coordinating and the partner institutions,
 but also to enable the partners to enhance their networking opportunities
 and contribute to the excellent research outcomes of all partners.
 
-
 ## International networking
 
 International cooperation is at the heart of TERAIS,
@@ -59,7 +60,6 @@ Dissemination and communication will be fostered
 through staff and student exchanges,
 joint events, and joint funding proposals.
 
-
 ## Development of people
 
 The TERAIS project will examine
@@ -71,7 +71,6 @@ will focus on the development and implementation
 of the strategy for a life-long career development at multiple levels.
 International staff and student exchanges
 will also play an indispensable role in this process.
-
 
 ## Research support
 
@@ -103,7 +102,7 @@ under the Grant Agreement number 101079338.
 </p>
 
 {{% cta
-    cta_link="/partners/" cta_text="Partners & People <i class='fas fa-chevron-right'></i>"
-    cta_alt_link="D6.4_TERAIS_DataManagementPlan_v01_final" cta_alt_text="Data Management Plan</i>"
-    cta_alt_icon="fas fa-file-pdf"
+cta_link="TERAIS_DMP_v02.pdf" cta_text="Data Management Plan <i class='fas fa-file-pdf'></i>"
+cta_alt_link="TERAIS_DMP_Annex1_v01.pdf" cta_alt_text="DMP Annex 1</i>"
+cta_alt_icon="fas fa-file-pdf"
 %}}
