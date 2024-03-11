@@ -63,7 +63,7 @@ rich research which the University of Hamburg has to offer.
 <!--more-->
 
 One of the key components of the field trip was a hybrid-mode seminar on the
-[Explainability and Robot Learning]({{< relref "../23-05-15-erl-seminar/" >}}).
+[Explainability and Robot Learning]({{< relref "./23-05-15-erl-seminar" >}}).
 This seminar brought together senior academics as well as younger
 researchers in order to present and discuss various topics related to
 machine learning methods, robotic learning, and computer vision.
