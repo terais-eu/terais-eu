@@ -56,7 +56,7 @@ featured: false
 #    url: https://www.disa2023.org/
 #   - name: Other formats
 #     url: https://arxiv.org/format/2305.08528
-# url_pdf: https://arxiv.org/pdf/2305.08528
+url_pdf: https://arxiv.org/pdf/2311.17787
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
