@@ -19,7 +19,8 @@ Social interaction is not always an easy task. Others' behavior might be ambiguo
 <dl>
 <dt class="float-left mr-2">General Chair:</dt>
 <dd class="">prof. Igor Farkaš (Comenius University, Bratislava, Slovakia)</dd>
-<dt class="float-left mr-2">Organizing Chair:</dt>
+<dt class="float-left mr-2">Organizing Chairs:</dt>
+<dd class="">prof. Zuzana Černeková (Comenius University, Bratislava, Slovakia)</dd>
 <dd class="">Dr. Kristína Malinovská (Comenius University, Bratislava, Slovakia)</dd>
 <dt class="float-left mr-2">Program Chair:</dt>
 <dd class="">Dr. Carlo Mazzola (Italian Institute of Technology, Genoa, Italy)</dd>
@@ -68,6 +69,6 @@ As the summer school is held in English, good command of the English language is
 
 * All documents must be written in English and submitted electronically in PDF format.
 * Please send your application to <strong style="color:#ff8200; font-size:1.2em">thriss2024(AT)terais.eu</strong>. Include the THRISS Summer School 2024 and applicant names in the title.
-* Submission Deadline: <strong style="color:#ff8200; font-size:1.2em">31.03.2024</strong>
+* Submission Deadline: <s>31.03.2024</s> <strong style="color:#ff8200; font-size:1.2em">12.04.2024</strong>
 * All complete applications will undergo a thorough selection process. Upon acceptance, you will receive an official acceptance letter via email with the offer to join the THRISS summer school. 
-* Notifications of acceptance will be sent out by 21.04.2024. 
+* Notifications of acceptance will be sent out during the course of April, the latest by 30.04.2024. 
