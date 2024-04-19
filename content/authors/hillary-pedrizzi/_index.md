@@ -15,8 +15,8 @@ weight: 1615
 
 # Organizations/Affiliations
 organizations:
-  - name: Italian Institute of Technology
-    url: "https://www.iit.it"
+- name: Comenius University Bratislava
+  url: "https://www.uniba.sk"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
