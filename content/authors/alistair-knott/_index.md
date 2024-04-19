@@ -15,8 +15,8 @@ weight: 1140
 
 # Organizations/Affiliations
 organizations:
-  - name: Italian Institute of Technology
-    url: "https://www.iit.it"
+  - name: Victoria University in Wellington, New Zealand
+    url: "https://www.wgtn.ac.nz/"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
