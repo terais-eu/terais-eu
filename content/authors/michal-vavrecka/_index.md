@@ -13,6 +13,10 @@ superuser: false
 role: WP3 Researcher
 weight: 2215
 
+# Organizations/Affiliations
+organizations:
+- name: Comenius University Bratislava
+  url: "https://www.uniba.sk"
 
 # List each interest with a dash
 # interests:

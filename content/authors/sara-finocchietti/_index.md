@@ -15,8 +15,8 @@ weight: 620
 
 # Organizations/Affiliations
 organizations:
-  - name: Italian Institute of Technology
-    url: "https://www.iit.it"
+  - name: Medtech NAMSA
+    url: "https://namsa.com/"
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: |
