@@ -13,10 +13,16 @@ headless: true
 weight: 30
 
 title: |
-  {{< figure src="funded_by_the_eu.png" alt="Funded by the EU" lightbox="true" class="my-0" >}}
+  {{< figure src="logos/EN_FundedbytheEU_RGB_POS.svg" alt="Funded by the EU"
+      lightbox="false"
+      link="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      class="my-0 mx-auto p-0 col col-7 col-md-6 col-lg-12" >}}
 
 design:
   columns: '2'
+  spacing:
+    padding: ["3.5rem", "0px"]
+ 
 ---
 
 <div class="h-100 d-flex align-items-center">
