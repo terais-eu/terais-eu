@@ -1,5 +1,5 @@
 ---
-title: "Special Session on Neurorobotics: 2. Edition"
+title: "Special Session on Neurorobotics: Second Edition"
 date: 2024-03-11
 
 # Set to true to display this item on the home page
