@@ -7,6 +7,15 @@ featured: true
 
 ---
 
+<div class="w-25 float-right">
+  {{< figure src="logo-vertical.png" alt="TERAIS logo"
+  lightbox="false" class="my-0" >}}
+  
+  {{< figure src="logos/EN_fundedbyEU_VERTICAL_RGB_POS.svg" alt="Funded by the European Union"
+  lightbox="false" class="my-0"
+  link="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en" >}}
+</div>
+
 **Location:** Department of Applied Informatics, Comenius University Bratislava, Slovakia
 
 **Position:** Postdoctoral Researcher
@@ -17,14 +26,15 @@ featured: true
 
 **Project description:** Comenius University Bratislava is looking for two excellent postdoctoral researchers to work on
 a Horizon Europe twinning project: TERAIS - Towards Excellent Robotics and Artificial Intelligence at a Slovak
-university. 
+university.
 
 **Job description:** The developmental project has a work package dedicated to research. The focus of research at
 Comenius University Bratislava is on developing machine learning algorithms (with focus on neural networks) for
 perception and control of the semi-humanoid NICO robot and the transfer to the physical robot. Part of the job will also
 be related to human-robot interaction experiments.
 
-**Requirements:** PhD or equivalent in Artificial Intelligence, Mathematics, Computer Science or similar, with a focus on
+**Requirements:** PhD or equivalent in Artificial Intelligence, Mathematics, Computer Science or similar, with a focus
+on
 Robotics, AI and/or Neural Networks, excellent programming skills (e.g. Python, C++, Machine Learning frameworks, etc.),
 good communication skills. Experience in human-robot interaction is a plus.
 
