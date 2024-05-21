@@ -49,6 +49,9 @@ The summer school takes place at the <a href="http://www.fmph.uniba.sk/index.php
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.874645655737!2d17.06792741564944!3d48.15122187922453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8beca20a2881%3A0xccd30d1ad76c737!2sFaculty+of+Mathematics%2C+Physics+and+Informatics!5e0!3m2!1sen!2ssk!4v1528634108347" width="400" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 
+{{< figure src="fmfi-lecture-halls.jpeg" alt="Lecture halls at FMPI"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
+
 ## How to get there
 **From the Central railway station (Hlavná stanica)**: take the bus no. 32, get off at the bus stop Botanická záhrada (approx. 13 min).
 
