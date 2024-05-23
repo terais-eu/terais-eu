@@ -47,10 +47,11 @@ meetings with Keynote Speakers, practice with Workshops on Human-Robot Interacti
 
 The summer school takes place at the <a href="http://www.fmph.uniba.sk/index.php?id=970">Faculty of Mathematics, Physics and Informatics, Comenius University</a>, in Mlynská dolina, Bratislava. Enter from the eastern side (close to the statue of Nicolas Copernicus), then follow the signs for the THRISS summer school. Click on the map of lecture halls on the right side below to see the building outline and navigate to the places where lectures and workshops will be held.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.874645655737!2d17.06792741564944!3d48.15122187922453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8beca20a2881%3A0xccd30d1ad76c737!2sFaculty+of+Mathematics%2C+Physics+and+Informatics!5e0!3m2!1sen!2ssk!4v1528634108347" width="400" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-
+<div class="text-nowrap">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.874645655737!2d17.06792741564944!3d48.15122187922453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8beca20a2881%3A0xccd30d1ad76c737!2sFaculty+of+Mathematics%2C+Physics+and+Informatics!5e0!3m2!1sen!2ssk!4v1528634108347" frameborder="0" allowfullscreen="" class="w-50 m-0 figure" style="aspect-ratio: 8 / 5"></iframe>
 {{< figure src="fmfi-lecture-halls.jpeg" alt="Lecture halls at FMPI"
-lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
+lightbox="true" class="w-50 figure m-0" >}}
+</div>
 
 ## How to get there
 **From the Central railway station (Hlavná stanica)**: take the bus no. 32, get off at the bus stop Botanická záhrada (approx. 13 min).
