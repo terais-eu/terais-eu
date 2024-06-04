@@ -402,7 +402,6 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 <li><b>Bio:</b></li>
 <li>Luca Garello is a post-doc at the Contact unit of the Italian Institute of Technology where he achieved his PhD title. His research is oriented towards the implementation of AI algorithms to improve human-robot interaction. Currently, his research focuses on integration of large language models (LLMs) with multimodal robotic platforms for long-term interactions.</li>
 <li>Carlo Mazzola is a post-doc at the Italian Institute of Technology in the <a href="https://contact.iit.it/">CONTACT unit</a> and research-excellence coordinator of the <a href="https://terais.eu/">TERAIS project</a>. He carries out his research in cognitive robotics and human-robot interaction with a focus on architectures for multi-party interaction, human-activity recognition, explainability and transparency in humanoid robots, user-centered interaction design, and shared perception between humans and artificial systems. He obtained his Ph.D. in Bioengineering and Robotics at the University of Genoa, coming from a previous background in Philosophy (BS and MS at the Catholic University of Milan), which he loves to leverage to explore philosophical constructs underlying technological advancements.</li>
-</li>
 
 <li><b>Title:</b> Sensorized devices for Human-aware human-robot Interaction</li>
 
