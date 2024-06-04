@@ -42,10 +42,12 @@ Hamburg (DE), and the Italian Institute of Technology (IT). Participants will ha
 meetings with Keynote Speakers, practice with Workshops on Human-Robot Interaction, and expose their research at the
 [**MEiCogSci**](https://www.meicogsci.eu/) Student Conference, connected with the Summer School.
 
-
 ## THRISS Venue
 
-The summer school takes place at the <a href="http://www.fmph.uniba.sk/index.php?id=970">Faculty of Mathematics, Physics and Informatics, Comenius University</a>, in Mlynská dolina, Bratislava. Enter from the eastern side (close to the statue of Nicolas Copernicus), then follow the signs for the THRISS summer school. Click on the map of lecture halls on the right side below to see the building outline and navigate to the places where lectures and workshops will be held.
+The summer school takes place at the <a href="http://www.fmph.uniba.sk/index.php?id=970">Faculty of Mathematics, Physics
+and Informatics, Comenius University</a>, in Mlynská dolina, Bratislava. Enter from the eastern side (close to the
+statue of Nicolas Copernicus), then follow the signs for the THRISS summer school. Click on the map of lecture halls on
+the right side below to see the building outline and navigate to the places where lectures and workshops will be held.
 
 <div class="text-nowrap">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.874645655737!2d17.06792741564944!3d48.15122187922453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8beca20a2881%3A0xccd30d1ad76c737!2sFaculty+of+Mathematics%2C+Physics+and+Informatics!5e0!3m2!1sen!2ssk!4v1528634108347" allowfullscreen="" class="w-50 m-0 border-0 figure" style="aspect-ratio: 8 / 5"></iframe>
@@ -53,33 +55,258 @@ The summer school takes place at the <a href="http://www.fmph.uniba.sk/index.php
 lightbox="true" class="w-50 m-0 figure" >}}
 </div>
 
+## Timetable
+
+<style>
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 4px 2px;
+        word-break: normal;
+    }
+
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 4px 2px;
+        word-break: normal;
+    }
+
+    .tg .tg-ct2b {
+        background-color: #ffdefe;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-8vwi {
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-wdhd {
+        background-color: #edfeff;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-susy {
+        background-color: #edfeff;
+        border-color: inherit;
+        font-weight: bold;
+        vertical-align: middle
+    }
+
+    .tg .tg-c3ow {
+        font-size: 10px;
+        text-wrap: nowrap;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-fnyw {
+        background-color: #edf4ff;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-1sy6 {
+        background-color: #ffffd3;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-ao2g {
+        border-color: #333333;
+        vertical-align: middle
+    }
+
+    .tg .tg-s9lc {
+        background-color: #fce5cc;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-np7h {
+        background-color: #d6ffc1;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-80s2 {
+        background-color: #fff2cb;
+        border-color: inherit;
+        vertical-align: middle
+    }
+</style>
+<table class="tg table text-center">
+	<thead>
+	<tr>
+		<th class="tg-c3ow"></th>
+		<th class="tg-c3ow">Monday</th>
+		<th class="tg-c3ow">Tuesday</th>
+		<th class="tg-c3ow">Wednesday</th>
+		<th class="tg-c3ow">Thursday</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td class="tg-c3ow">8:00 - 8:30</td>
+		<td class="tg-1sy6"><span style="font-style:italic">registration</span></td>
+		<td class="tg-ao2g"></td>
+		<td class="tg-ao2g"></td>
+		<td class="tg-ao2g"></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">8:30 - 9:00</td>
+		<td class="tg-s9lc"><span style="font-weight:bold">Introduction</span><br>C</td>
+		<td class="tg-c3ow"></td>
+		<td class="tg-c3ow"></td>
+		<td class="tg-c3ow"></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">9:00 - 10:15</td>
+		<td class="tg-wdhd"><span
+				style="font-weight:bold;font-style:normal;text-decoration:none">Pablo Barros</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
+		<td class="tg-susy"><span style="font-weight:bold;font-style:normal;text-decoration:none">Matthias Kerzel</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
+		<td class="tg-wdhd"><span
+				style="font-weight:bold;font-style:normal;text-decoration:none">Martin Takac</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
+		<td class="tg-ct2b" rowspan="3"><span style="font-weight:bold">Student Projects Finale</span><br>C<br><span
+				style="font-style:italic">open for MEiCogSci</span><br></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">10:30 - 10:45</td>
+		<td class="tg-1sy6"><span style="font-style:italic">coffee break</span></td>
+		<td class="tg-1sy6"><span style="font-style:italic">coffee break</span></td>
+		<td class="tg-1sy6"><span style="font-style:italic">coffee break</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">11:00 - 11:30</td>
+		<td class="tg-wdhd" rowspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Shelly Levy Tzedek</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
+		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 2 Bipin Indurkhya</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
+		<td class="tg-ct2b" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">Student Projects</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">I-9</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">11:30 - 12:30</td>
+		<td class="tg-80s2" rowspan="4"><span style="font-weight:normal;text-decoration:none">final lunch - "party"</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">12:30 - 13:30</td>
+		<td class="tg-1sy6" rowspan="2"><span style="font-style:italic">lunch</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">13:30 - 14:00</td>
+		<td class="tg-1sy6" rowspan="3"><span style="font-style:italic">lunch</span></td>
+		<td class="tg-1sy6" rowspan="3"><span style="font-style:italic">lunch</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">14:00 - 14:30</td>
+		<td class="tg-ct2b" rowspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Student Projects</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">I-9</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">14:30 - 15:00</td>
+		<td class="tg-wdhd" rowspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Alessandra Sciutti </span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">B</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">15:00 - 16:00</td>
+		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 1 Andrej Lúčny</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
+		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 3 Viktor Kocur </span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
+		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 4 Carlo Mazzola &amp; Luca Garello</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">16:00 - 16:15</td>
+		<td class="tg-80s2"><span style="font-style:italic">short break</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">16:15 - 17:15</td>
+		<td class="tg-c3ow"><span
+				style="font-weight:normal;font-style:normal;text-decoration:none;color:#656565">MEi:CogSci</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none;color:#656565">MS Student Presentations</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">17:30 - 18:30</td>
+		<td class="tg-8vwi"></td>
+		<td class="tg-ct2b"><span
+				style="font-weight:bold;font-style:normal;text-decoration:none">Student Projects</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">I-9</span></td>
+		<td class="tg-ct2b"><span
+				style="font-weight:bold;font-style:normal;text-decoration:none">Student Projects</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">I-9</span></td>
+		<td class="tg-fnyw" rowspan="2"><span
+				style="font-weight:bold;font-style:normal;text-decoration:none">MEi:CogSci</span><br><span
+				style="font-weight:bold;font-style:normal;text-decoration:none">POSTER Session</span></td>
+	</tr>
+	<tr>
+		<td class="tg-c3ow">18:30 - 19:00</td>
+		<td class="tg-s9lc"><span style="font-weight:bold;font-style:normal;text-decoration:none">Social Dinner</span></td>
+		<td class="tg-c3ow"></td>
+		<td class="tg-c3ow"></td>
+	</tr>
+	</tbody>
+</table>
+
 ## How to get there
-**From the Central railway station (Hlavná stanica)**: take the bus no. 32, get off at the bus stop Botanická záhrada (approx. 13 min).
 
-**From the railway station Petržalka**: take the bus no. 91 or 191 to Nový most (approx. 4 min), then change for the tram no. 4 or 9 to Botanická záhrada (approx. 6 min).
+**From the Central railway station (Hlavná stanica)**: take the bus no. 32, get off at the bus stop Botanická záhrada (
+approx. 13 min).
 
-**From the airport**: take the bus no. 61 to the Central railway station (Hlavná stanica, approx. 25 min), then change for the bus no. 32, get off at the bus stop Botanická záhrada (approx. 13 min).
+**From the railway station Petržalka**: take the bus no. 91 or 191 to Nový most (approx. 4 min), then change for the
+tram no. 4 or 9 to Botanická záhrada (approx. 6 min).
 
-**From the bus station Mlynské nivy**: take the bus no. 70 to Nový most (approx. 5 min), then change for the tram no. 4 or 9 to Botanická záhrada (approx. 6 min).
+**From the airport**: take the bus no. 61 to the Central railway station (Hlavná stanica, approx. 25 min), then change
+for the bus no. 32, get off at the bus stop Botanická záhrada (approx. 13 min).
 
-**On foot from Botanická záhrada**: from tram/bus station Botanical garden (Botanická záhrada) or from hotel Družba cross the big street via the overbridge and continue straight on. Pass the Faculty of Natural Sciences (Prírodovedecká fakulta) on the left and the next building on your left is the Faculty of Mathematics, Physics and Informatics. Enter from the eastern side (close to the statue of Nicolas Copernicus), then follow the signs for the THRISS summer school
+**From the bus station Mlynské nivy**: take the bus no. 70 to Nový most (approx. 5 min), then change for the tram no. 4
+or 9 to Botanická záhrada (approx. 6 min).
+
+**On foot from Botanická záhrada**: from tram/bus station Botanical garden (Botanická záhrada) or from hotel Družba
+cross the big street via the overbridge and continue straight on. Pass the Faculty of Natural Sciences (Prírodovedecká
+fakulta) on the left and the next building on your left is the Faculty of Mathematics, Physics and Informatics. Enter
+from the eastern side (close to the statue of Nicolas Copernicus), then follow the signs for the THRISS summer school
 (see the <a href="https://cogsci.fmph.uniba.sk/meicogsciba/images/mapWalk.jpg">map</a>).
 
-**By car**: If coming from Austria or Hungary, follow the motorway D2 (E65), and right after crossing the Danube take exit 62 (Mlynská dolina, Devín). If coming from Czech Republic, follow the motorway D2 (E65), right after coming through the tunnel Sitina, take exit towards Devín, Karlova ves, Centrum. 
+**By car**: If coming from Austria or Hungary, follow the motorway D2 (E65), and right after crossing the Danube take
+exit 62 (Mlynská dolina, Devín). If coming from Czech Republic, follow the motorway D2 (E65), right after coming through
+the tunnel Sitina, take exit towards Devín, Karlova ves, Centrum.
 Here is the location of <a href="https://goo.gl/maps/cHdtQr9dqAD2">FMPH UK on Google maps</a>.
 
 ## Accommodation
 
-Couple of our tips for price-reasonable accomodation. Unfortunately the nearby dormitories are not available at the time of the summer school.
+Couple of our tips for price-reasonable accomodation. Unfortunately the nearby dormitories are not available at the time
+of the summer school.
 
-**Apart-Hostel Zero** 
+**Apart-Hostel Zero**
 
-There are multiple options for accommodation in Bratislava. We cordially recommend Zero Hostel in the excellent location of Staré Mesto. Hostel is also within walking distance from the tram stop Kapucínska, where you can take number 9 heading directly to Botanická záhrada.
+There are multiple options for accommodation in Bratislava. We cordially recommend Zero Hostel in the excellent location
+of Staré Mesto. Hostel is also within walking distance from the tram stop Kapucínska, where you can take number 9
+heading directly to Botanická záhrada.
 
 **Hostel Bratislava**
 
-We also recommend both available and culturally enriching Hostel Bratislava, which is located in town section Ružinov near the city center. Tram stop Chlumeckého is also 2 minutes walking distance from the hostel, where you can take tram number 9 heading to Botanická záhrada.
-
+We also recommend both available and culturally enriching Hostel Bratislava, which is located in town section Ružinov
+near the city center. Tram stop Chlumeckého is also 2 minutes walking distance from the hostel, where you can take tram
+number 9 heading to Botanická záhrada.
 
 ## About THRISS
 
@@ -128,9 +355,8 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 
 <li><b>Abstract:</b> As AI researchers, why do we spend so much effort on robotic platforms? Do we really need one more dataset? No! However, we need an artificial agent that can autonomously collect its own data, make decisions to gather information and learn through interaction with a complex physical world. We need embodied agents to study HRI and hard-to-simulate tasks like haptic perception. To this end, we developed NICO and NICOL, the Neuro-Inspired Companion and the Neuro-Inspired Collaborator. In this talk, we present selected studies, conducted on these platforms, ranging from developmental robotics to HRI and XAI.</li>
 
-
 ## Alessandra Sciutti (Italian Institute of Technology, Genoa, Italy)
- 
+
 <li><b>Bio:</b> Alessandra Sciutti is Tenure Track Researcher, head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) unit of the Italian Institute of Technology (IIT). With a background on Bioengineering, she received her Ph.D. in Humanoid Technologies from the University of Genova in 2010. After two research periods in USA and Japan, in 2018 she has been awarded the ERC Starting Grant wHiSPER (www.whisperproject.eu ), focused on the investigation of joint perception between humans and robots. She published more than 100 papers in international journals and conferences and she is currently Associate Editor for several journals on Cognitive Systems and Human-Robot Interaction. <a href="https://www.iit.it/people/alessandra-sciutti">https://www.iit.it/people/alessandra-sciutti</a></li>
 <li><b>Title:</b> A developmental perspective on cognitive robotics for interaction</li>
 
@@ -183,7 +409,6 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 
 </ul>
 
-
 ## Organizing Committee
 
 <dl>
@@ -200,7 +425,7 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 
 ## Student Enrollment
 
-<strong>The submission is closed</strong>. 
+<strong>The submission is closed</strong>.
 
 ### Costs
 
