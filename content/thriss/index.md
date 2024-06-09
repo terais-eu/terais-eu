@@ -42,19 +42,7 @@ project within the international collaboration among the Comenius University of 
 Hamburg (DE), and the Italian Institute of Technology (IT). Participants will have the chance to join presentations andL
 meetings with Keynote Speakers, practice with Workshops on Human-Robot Interaction, and expose their research at the
 [**MEiCogSci**](https://www.meicogsci.eu/) Student Conference, connected with the Summer School.
-
-## THRISS Venue
-
-The summer school takes place at the <a href="http://www.fmph.uniba.sk/index.php?id=970">Faculty of Mathematics, Physics
-and Informatics, Comenius University</a>, in Mlynská dolina, Bratislava. Enter from the eastern side (close to the
-statue of Nicolas Copernicus), then follow the signs for the THRISS summer school. Click on the map of lecture halls on
-the right side below to see the building outline and navigate to the places where lectures and workshops will be held.
-
-<div class="text-nowrap">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.874645655737!2d17.06792741564944!3d48.15122187922453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8beca20a2881%3A0xccd30d1ad76c737!2sFaculty+of+Mathematics%2C+Physics+and+Informatics!5e0!3m2!1sen!2ssk!4v1528634108347" allowfullscreen="" class="w-50 m-0 border-0 figure" style="aspect-ratio: 8 / 5"></iframe>
-{{< figure src="fmfi-lecture-halls.jpeg" alt="Lecture halls at FMPI"
-lightbox="true" class="w-50 m-0 figure" >}}
-</div>
+THRISS is supported by the [**Slovak Society for Cognitive Science**](https://cogsci.fmph.uniba.sk/sskv/).
 
 ## Timetable
 
@@ -266,6 +254,34 @@ lightbox="true" class="w-50 m-0 figure" >}}
 	</tr>
 	</tbody>
 </table>
+<br/>
+
+## THRISS Venue
+
+<div class="text-nowrap">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.874645655737!2d17.06792741564944!3d48.15122187922453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8beca20a2881%3A0xccd30d1ad76c737!2sFaculty+of+Mathematics%2C+Physics+and+Informatics!5e0!3m2!1sen!2ssk!4v1528634108347" allowfullscreen="" class="w-50 m-0 border-0 figure" style="aspect-ratio: 8 / 5"></iframe>
+{{< figure src="fmfi-lecture-halls.jpeg" alt="Lecture halls at FMPI"
+lightbox="true" class="w-50 m-0 figure" >}}
+</div>
+
+The summer school takes place at the <a href="http://www.fmph.uniba.sk/index.php?id=970">Faculty of Mathematics, Physics
+and Informatics, Comenius University</a>, in Mlynská dolina, Bratislava. Enter from the eastern side (close to the
+statue of Nicolas Copernicus), then follow the signs for the THRISS summer school. Click on the map of lecture halls on
+the right side below to see the building outline and navigate to the places where lectures and workshops will be held.
+
+### Entrances to the Faculty
+
+The buliding has two entrances: from the South (Physics building) and from the East (Mathematics building). Most of the summer school will take place in the building of Informatics and in main lecture halls, so you will want to use the East entrance. 
+The East entrance is open on working days bw 6:00-20:15. After these hours use the Physics entrance (both buildings are connected).
+
+### Where to eat
+The Faculty has a canteen (FAYNFOOD) in the Physics building close to the South entrance and a cafeteria (FREEFOOD) in the Mathematics wing, at the end of the long corridor straight opposite to the East entrance. 
+The full price for a lunch is approx. 6 Eur. The current menu, as well as other dining options, can be found <a href="https://zona.fmph.uniba.sk/sluzby-a-administrativa/jedalne-listky/">here</a>.
+
+There are several buffees, a cafeteria and a pizzeria in the nearby Faculty of natural sciences and Faculty of information technologies, and plenty others are in the student's dormitory area in Slávičie údolie.
+
+### Internet
+Eduroam Wifi is available in the Faculty buildings - you should be able to log in with your home university Eduroam credentials.
 
 ## How to get there
 
@@ -309,6 +325,8 @@ We also recommend both available and culturally enriching Hostel Bratislava, whi
 near the city center. Tram stop Chlumeckého is also 2 minutes walking distance from the hostel, where you can take tram
 number 9 heading to Botanická záhrada.
 
+<br/>
+
 ## About THRISS
 
 Social interaction is not always an easy task. Others' behavior might be ambiguous and hard to grasp. As a result,
@@ -331,23 +349,30 @@ approach.
 
 ## Pablo Barros (Sony Corporation, Brussels, Belgium)
 
-<li><b>Bio:</b> Pablo Barros is currently a senior research Scientist at Sony Europe, in Belgium. Since he concluded his PhD at the University of Hamburg, He has worked on affective computing and social robotics over the past years, in particular on the modeling of intrinsic affect on dynamic and contextually rich interactions. His current research interests include the modeling of competitive and cooperative behavior in human dynamics, the exploration of explainable AI for affective perception, and the continual adaptation of social agents towards multiple persons.
+{{< figure src="speakers/pablo.png" alt="Pablo Barros"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
+<li>
+<b>Bio:</b> Pablo Barros is currently a senior research Scientist at Sony Europe, in Belgium. Since he concluded his PhD at the University of Hamburg, He has worked on affective computing and social robotics over the past years, in particular on the modeling of intrinsic affect on dynamic and contextually rich interactions. His current research interests include the modeling of competitive and cooperative behavior in human dynamics, the exploration of explainable AI for affective perception, and the continual adaptation of social agents towards multiple persons.
 </li>
 
-<li><b>Title:</b> Towards Modeling Social Components of Trust in Competitive and Cooperative Game-Based Interactions</li>
+<li><strong>Title: Towards Modeling Social Components of Trust in Competitive and Cooperative Game-Based Interactions</strong></li>
 
 <li><b>Abstract:</b> Contextual games like complex card games and role-playing games (RPGs) offer rich, narrative-driven environments that are ideal for studying and modeling social constructs such as empathy, rivalry, trust, engagement, and competitiveness. These games require players to navigate complex emotional landscapes, make strategic decisions based on social cues, and engage in deep narrative experiences, all within a structured but highly flexible environment. By adding intelligent agents and robots into these scenarios, researchers can investigate how these systems can understand and replicate human social behaviors, adapt to emotional contexts, and contribute to shared experiences in meaningful ways. In this talk, I will present some of the research I have been doing in this area, in particular on the modeling of such social cues, and their implication on the development of high-level social constructs, such as trust.</li>
 
 ## Shelly Levy Tzedek (Ben Gurion University, Beersheba, Israel)
 
+{{< figure src="speakers/shelley.jpeg" alt="Shelly Levy-Tzedek"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
 <li><b>Bio:</b> Shelly Levy-Tzedek is an associate professor and heads the Cognition, Aging and Rehabilitation laboratory at Ben-Gurion University. She obtained her B.Sc. degree summa cum laude in Bioengineering from UC Berkeley, and her M.Sc and Ph.D. degrees in Biological Engineering from the Massachusetts Institute of Technology (MIT). She has been awarded a Horizon-2020 Marie Skłodowska Curie Visiting Professorship at the Institute of Advanced Studies at the University of Freiburg in Germany, the Pedagogica award for outstanding new researchers, and the Toronto Prize for excellence in research. In 2023 she was a Scholar-in-Residence at the KTH Royal Institute of Technology in Sweden.</li>
 
-<li><b>Title:</b> Trusting Social Robots in Rehabilitation: Participatory design and ethical considerations</li>
+<li><b>Title: Trusting Social Robots in Rehabilitation: Participatory design and ethical considerations</b></li>
 
 <li><b>Abstract:</b> I will review studies in my lab, in which we collected, as part of the design process, qualitative data from the main stakeholders - including patients, family members and clinicians. I will argue that this helps minimize errors in the design process. I will then discuss how trust in the context of rehabilitation is different from other human-robot interaction context. I will end with the 10 questions I drafted with colleagues, which each robotic development team should be asked, so we can evaluate the benefit of their contribution to society. </li>
 
 ## Matthias Kerzel (University of Hamburg, Hamburg, Germany)
 
+{{< figure src="speakers/matthias.jpg" alt="Matthias Kerzel"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
 <li><b>Bio:</b> Matthias Kerzel received the M.Sc. and Ph.D. degrees in computer science from the University of Hamburg, Germany. He is currently a Knowledge Technology Engineer with the Knowledge Technology Group of Prof. Stefan Wermter, University of Hamburg. He has given lectures on knowledge processing in intelligent systems, neural networks, and
 bio-inspired artificial intelligence. He is involved in the international SFB/TRR-169 large-scale project on crossmodal learning. His research interests include developmental neurorobotics, hybrid neurosymbolic architectures, explainable AI, and human–robot interaction. He is a board member of the European Neural Network Society (ENNS).
 </li>
@@ -358,6 +383,8 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 
 ## Alessandra Sciutti (Italian Institute of Technology, Genoa, Italy)
 
+{{< figure src="speakers/alessandra.jpeg" alt="Alessandra Sciutti"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
 <li><b>Bio:</b> Alessandra Sciutti is Tenure Track Researcher, head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) unit of the Italian Institute of Technology (IIT). With a background on Bioengineering, she received her Ph.D. in Humanoid Technologies from the University of Genova in 2010. After two research periods in USA and Japan, in 2018 she has been awarded the ERC Starting Grant wHiSPER (www.whisperproject.eu ), focused on the investigation of joint perception between humans and robots. She published more than 100 papers in international journals and conferences and she is currently Associate Editor for several journals on Cognitive Systems and Human-Robot Interaction. <a href="https://www.iit.it/people/alessandra-sciutti">https://www.iit.it/people/alessandra-sciutti</a></li>
 <li><b>Title:</b> A developmental perspective on cognitive robotics for interaction</li>
 
@@ -365,16 +392,10 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 
 ### Workshops
 
-## Martin Takáč (Comenius University, Bratislava, Slovakia)
-
-<li><b>Bio:</b> Martin Takac received PhD in applied informatics from Comenius University Bratislava, where he currently holds an associate professor position. He teaches cognitive science and his research interests are cognitive modeling, artificial neural networks and developmental AI. He is also interested in a wider impact of AI on society. He is a member of the Standing Committee on Ethics and Regulation of Artificial Intelligence for Slovak government, member of the scientific board of AIslovakIA - National platform for the AI development in Slovakia, member of the Cognition and Neural Computation Research Group and chair of Slovak Cognitive Science Society.</li>
-
-<li><b>Title:</b> AI Ethics: challenges and use-cases</li>
-
-<li><b>Abstract:</b> AI tools are increasingly being deployed in all areas of life. Due to their disruptive potential, it is very important to perceive them not just as technologies, but as techno-social systems, and consider their ethical and societal aspects. This is an inherently interdisciplinary endeavor that requires more than just technical knowledge. In this practical workshop, the participants will be given real-world use cases of the deployment of intelligent technologies that bring up ethical questions.  They will team up to suggest solutions as an exercise in AI ethics-aware decision-making.</li> 
-
 ## Andrej Lúčny (Comenius University, Bratislava, Slovakia)
 
+{{< figure src="speakers/andy.jpg" alt="Andrej Lúčny"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
 <li><b>Bio:</b> Andrej Lúčny is a computer vision researcher at ME-Inspection SK. He received his doctorate in integrating artificial intelligence methods into real-time systems at the Department of Applied Informatics at the Faculty of Mathematics, Physics, and Informatics of Comenius University in Bratislava, where he partially works as a researcher in cognitive robotics. He co-founded the civil association Robotika.SK, which is devoted to popularizing robotics. He is a regular judge of contests in programming and robotics for young talents.</li>
 
 <li><b>Title:</b> Interacting with the NICO robot: Neuro-Inspired COmpanion</li>
@@ -383,22 +404,40 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 
 ## Bipin Indurkhya (Jagiellonian University, Krakow, Poland)
 
+{{< figure src="speakers/bipin.jpeg" alt="Bipin Indurkhya "
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
 <li><b>Bio:</b> Bipin Indurkhya is a professor of Cognitive Science and founder of the Social Robotics Lab <a href="https://socialroboticslab.edu.pl/">(https://socialroboticslab.edu.pl/)</a> at the Jagiellonian University, Krakow, Poland. His main research interests are social robotics, usability engineering, affective computing and creativity. He received his Master’s degree in Electronics Engineering from the Philips International Institute, Eindhoven (The Netherlands) in 1981, and PhD in Computer Science from University of Massachusetts at Amherst in 1985. He has taught at various universities in the US, Japan, India, Germany and Poland; and has led national and international research projects with collaborations from companies like Xerox and Samsung.</li>
 
 <li><b>Title:</b> Programming for Trust: How Robot Behavior Influences Human Confidence</li>
 
 <li><b>Abstract:</b> This workshop explores trust in human-robot interactions.We will start with a 20-minute theoretical overview of trust types and robot capabilities. This will be followed by a 2-hour practical session. Participants will design and test experiment scenarios to see how certain robot behaviors affect trust in robots. They’ll program these behaviors into robots using an easy coding tool integrated with ChatGPT, and then run experiments to observe the effects. The workshop concludes with a presentation of the results and participant feedback, offering both learning and hands-on experience in understanding robot trust dynamics.</li>
 
-## Viktor Kocúr (Comenius University, Bratislava, Slovakia)
+## Viktor Kocur (Comenius University, Bratislava, Slovakia)
 
+{{< figure src="speakers/viktor.jpg" alt="Viktor Kocur"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
 <li><b>Bio:</b> Viktor Kocur is an assistant professor at the Department of Applied Informatics, Comenius University in Bratislava. He has a master’s degree in computational physics from Czech Technical University in Prague . He finished his PhD at Comenius University with his dissertation dedicated to computer vision approaches for automated traffic surveillance. After his PhD he held a postdoc position at Brno University of Technology. His current research interests include 3D vision and deep learning.</li>
 
 <li><b>Title:</b> Leveraging Binocular Vision and Deep Learning for 3D Scene Understanding with NICO</li>
 
 <li><b>Abstract:</b> In this workshop we will leverage NICO's two eyes in combination with the camera geometry and deep learning to enable 3D scene understanding from the robot's perspective. We will cover the basics of monocular and stereo camera geometry and calibrate NICO's cameras using a calibration pattern. With the cameras calibrated we can measure 3D coordinates of different points seen in both images. We will use this in conjunction with deep learning methods relying on single RGB images to enable understanding of the scene.</li> 
 
+## Martin Takáč (Comenius University, Bratislava, Slovakia)
+
+{{< figure src="speakers/martin.png" alt="Martin Takáč"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
+<li><b>Bio:</b> Martin Takac received PhD in applied informatics from Comenius University Bratislava, where he currently holds an associate professor position. He teaches cognitive science and his research interests are cognitive modeling, artificial neural networks and developmental AI. He is also interested in a wider impact of AI on society. He is a member of the Standing Committee on Ethics and Regulation of Artificial Intelligence for Slovak government, member of the scientific board of AIslovakIA - National platform for the AI development in Slovakia, member of the Cognition and Neural Computation Research Group and chair of Slovak Cognitive Science Society.</li>
+
+<li><b>Title:</b> AI Ethics: challenges and use-cases</li>
+
+<li><b>Abstract:</b> AI tools are increasingly being deployed in all areas of life. Due to their disruptive potential, it is very important to perceive them not just as technologies, but as techno-social systems, and consider their ethical and societal aspects. This is an inherently interdisciplinary endeavor that requires more than just technical knowledge. In this practical workshop, the participants will be given real-world use cases of the deployment of intelligent technologies that bring up ethical questions.  They will team up to suggest solutions as an exercise in AI ethics-aware decision-making.</li> 
+
 ## Carlo Mazzola & Luca Garello
 
+{{< figure src="speakers/carlo.png" alt="Carlo Mazzola"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
+{{< figure src="speakers/luca.jpeg" alt="Luca Garello"
+lightbox="true" class="w-25 float-right mt-0 ml-3" >}}
 <li><b>Bio:</b></li>
 <li>Luca Garello is a post-doc at the Contact unit of the Italian Institute of Technology where he achieved his PhD title. His research is oriented towards the implementation of AI algorithms to improve human-robot interaction. Currently, his research focuses on integration of large language models (LLMs) with multimodal robotic platforms for long-term interactions.</li>
 <li>Carlo Mazzola is a post-doc at the Italian Institute of Technology in the <a href="https://contact.iit.it/">CONTACT unit</a> and research-excellence coordinator of the <a href="https://terais.eu/">TERAIS project</a>. He carries out his research in cognitive robotics and human-robot interaction with a focus on architectures for multi-party interaction, human-activity recognition, explainability and transparency in humanoid robots, user-centered interaction design, and shared perception between humans and artificial systems. He obtained his Ph.D. in Bioengineering and Robotics at the University of Genoa, coming from a previous background in Philosophy (BS and MS at the Catholic University of Milan), which he loves to leverage to explore philosophical constructs underlying technological advancements.</li>
@@ -422,6 +461,8 @@ bio-inspired artificial intelligence. He is involved in the international SFB/TR
 <dt class="float-left mr-2">Communication Chair:</dt>
 <dd class="">Hassan Ali (University of Hamburg, Hamburg, Germany)</dd>
 </dl>
+
+<br/>
 
 ## Student Enrollment
 
