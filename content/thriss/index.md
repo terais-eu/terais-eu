@@ -17,8 +17,8 @@ type: page
 <div class="fixed-nav">
 
 - [Introduction](#introduction)
-- [THRISS Venue](#thriss-venue)
 - [Timetable](#timetable)
+- [THRISS Venue](#thriss-venue)
 - [About THRISS](#about-thriss)
 - [Organizing Committee](#organizing-committee)
 - [Invited Speakers and Lecturers](#invited-speakers-and-lecturers)
