@@ -162,21 +162,20 @@ THRISS is supported by the [**Slovak Society for Cognitive Science**](https://co
 		<td class="tg-c3ow"></td>
 	</tr>
 	<tr>
-		<td class="tg-c3ow">9:00 - 10:15</td>
+		<td class="tg-c3ow">9:00 - 10:30</td>
 		<td class="tg-wdhd"><span
 				style="font-weight:bold;font-style:normal;text-decoration:none">Pablo Barros</span><br><span
 				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
 		<td class="tg-susy"><span style="font-weight:bold;font-style:normal;text-decoration:none">Matthias Kerzel</span><br><span
 				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
-		<td class="tg-wdhd"><span
-				style="font-weight:bold;font-style:normal;text-decoration:none">Martin Takac</span><br><span
+		<td class="tg-wdhd" rowspan="2"><span
+				style="font-weight:bold;font-style:normal;text-decoration:none">Martin Takac WS 4</span><br><span
 				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
-		<td class="tg-ct2b" rowspan="3"><span style="font-weight:bold">Student Projects Finale</span><br>C<br><span
+		<td class="tg-ct2b" rowspan="3"><span style="font-weight:bold">Student Projects Finale</span><br>I-9<br><span
 				style="font-style:italic">open for MEiCogSci</span><br></td>
 	</tr>
 	<tr>
-		<td class="tg-c3ow">10:30 - 10:45</td>
-		<td class="tg-1sy6"><span style="font-style:italic">coffee break</span></td>
+		<td class="tg-c3ow">10:30 - 11:00</td>
 		<td class="tg-1sy6"><span style="font-style:italic">coffee break</span></td>
 		<td class="tg-1sy6"><span style="font-style:italic">coffee break</span></td>
 	</tr>
@@ -186,12 +185,13 @@ THRISS is supported by the [**Slovak Society for Cognitive Science**](https://co
 				style="font-weight:normal;font-style:normal;text-decoration:none">C</span></td>
 		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 2 Bipin Indurkhya</span><br><span
 				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
-		<td class="tg-ct2b" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">Student Projects</span><br><span
-				style="font-weight:normal;font-style:normal;text-decoration:none">I-9</span></td>
+		<td class="tg-1sy6"><span style="font-style:italic">coffee break</span></td>
 	</tr>
 	<tr>
 		<td class="tg-c3ow">11:30 - 12:30</td>
-		<td class="tg-80s2" rowspan="4"><span style="font-weight:normal;text-decoration:none">final lunch - "party"</span>
+		<td class="tg-ct2b" rowspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Student Projects</span><br><span
+				style="font-weight:normal;font-style:normal;text-decoration:none">I-9</span></td>
+		<td class="tg-80s2" rowspan="4"><span style="font-weight:normal;text-decoration:none">final lunch - "party"<br>I-9</span>
 		</td>
 	</tr>
 	<tr>
@@ -219,7 +219,7 @@ THRISS is supported by the [**Slovak Society for Cognitive Science**](https://co
 				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
 		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 3 Viktor Kocur </span><br><span
 				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
-		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 4 Carlo Mazzola &amp; Luca Garello</span><br><span
+		<td class="tg-np7h" rowspan="3"><span style="font-weight:bold;font-style:normal;text-decoration:none">WS 5 Carlo Mazzola &amp; Luca Garello</span><br><span
 				style="font-weight:normal;font-style:normal;text-decoration:none">H6</span></td>
 	</tr>
 	<tr>
@@ -227,7 +227,7 @@ THRISS is supported by the [**Slovak Society for Cognitive Science**](https://co
 		<td class="tg-80s2"><span style="font-style:italic">short break</span></td>
 	</tr>
 	<tr>
-		<td class="tg-c3ow">16:15 - 17:15</td>
+		<td class="tg-c3ow">16:15 - 17:30</td>
 		<td class="tg-c3ow"><span
 				style="font-weight:normal;font-style:normal;text-decoration:none;color:#656565">MEi:CogSci</span><br><span
 				style="font-weight:normal;font-style:normal;text-decoration:none;color:#656565">MS Student Presentations</span>
