@@ -76,7 +76,7 @@ user_groups:
 Jasmin Bernotat is a post doc researcher at CONTACT (COgNiTive Architecture for
 Collaborative Technologies) Unit of the Italian Institute of Technology (IIT). There, she is a
 part of the EU-funded project TERAIS (Towards Excellent Robotics and Artificial
-Intelligence at a Slovak university). Jasmin Bernotat holds a Bachelor and a Master degree in
+Intelligence at a Slovak University). Jasmin Bernotat holds a Bachelor and a Master degree in
 Psychology and a PhD in Psychology and Intelligent Systems which she obtained at the
 Center for Cognitive Interaction Technology (CITEC) at Bielefeld University (Germany).
 Having been a research associate in various international and interdisciplinary projects in

@@ -1,12 +1,11 @@
 ---
 title: About TERAIS
 type: page
-type: page
 ---
 
 {{< figure src="logo-vertical.png" alt="TERAIS logo"
 lightbox="false" class="w-25 float-right mt-0 ml-3" >}}
-**TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak university)
+**TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak University)
 is an international effort aimed at establishing
 the [Department of Applied Informatics](https://dai.fmph.uniba.sk) (DAI)
 of [**Comenius University Bratislava**](https://www.uniba.sk), Slovakia (UKBA)

@@ -10,7 +10,7 @@ image:
 featured: true
 ---
 The three-year Horizon Europe project TERAIS (Towards Excellent Robotics and
-Artificial Intelligence at a Slovak university) started in October 2022.
+Artificial Intelligence at a Slovak University) started in October 2022.
 
 <!--more-->
 

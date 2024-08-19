@@ -30,7 +30,7 @@ cta_alt:
 
 <div class="mt-4 mb-3">
 
-**TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak university)
+**TERAIS** (Towards Excellent Robotics and Artificial Intelligence at a Slovak University)
 is an international project aimed at establishing
 the Department of Applied Informatics
 of **Comenius University Bratislava**, Slovakia
