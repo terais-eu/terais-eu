@@ -1,5 +1,5 @@
 ---
-title: "ICANN 2024 Special Session on Neurorobotics"
+title: "ICANN 2024 Special Session in Neurorobotics"
 date: 2024-08-29
 
 # Set to true to display this item on the home page
