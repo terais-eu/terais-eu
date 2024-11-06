@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: WP3 Researcher
-weight: 1250
+weight: 2650
 
 # Organizations/Affiliations
 organizations:
