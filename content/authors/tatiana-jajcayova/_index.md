@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: WP5 Systematic Development of People
+role: WP5 DAI Department Chair
 weight: 1020
 
 # Organizations/Affiliations
