@@ -1,5 +1,5 @@
 ---
-title: "Cognition and Artificial Life 2025"
+title: "Cognition and Artificial Life KUZ / CAL 2025"
 date: 2025-01-27
 
 # Set to true to display this item on the home page
