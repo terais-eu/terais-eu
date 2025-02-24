@@ -4,6 +4,16 @@ date: 2025-02-11
 
 # Set to true to display this item on the home page
 featured: true
+
+gallery_item:
+  - album: 25-02-11-second-field-trip-to-iit
+    image: IMG_7759.JPG
+  - album: 25-02-11-second-field-trip-to-iit
+    image: IMG_7762.JPG
+  - album: 25-02-11-second-field-trip-to-iit
+    image: IMG_7781.JPG
+  - album: 25-02-11-second-field-trip-to-iit
+    image: IMG_7856.JPG
 ---
 
 In October 2024, a second visit to the Italian Institute of Technology (IIT) was organised for six UKBA staff members,
@@ -48,3 +58,5 @@ research support, and innovation management.
 This experience not only marked another step forward in UKBA’s research development journey but also laid the groundwork
 for future collaborations and continuous improvement. The knowledge and best practices exchanged during this visit will
 continue to shape UKBA’s strategic direction, fostering research excellence and innovation in the years to come.
+
+{{< gallery album="25-02-11-second-field-trip-to-iit" >}}
