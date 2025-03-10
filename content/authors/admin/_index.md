@@ -41,14 +41,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:info@terais.eu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/TERAIS_project
     display:
       header: true
-  - icon: researchgate
+  - icon: square-x-twitter
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Project-Terais
+    link: https://x.com/TERAIS_project
     display:
       header: true
   - icon: facebook
