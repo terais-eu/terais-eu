@@ -31,6 +31,6 @@ main:
   - name: Contact
     url: contact
     weight: 80
-  - name: THRISS
-    url: thriss
+  - name: '<span style="font-weight: 700">Events</span>'
+    url: events
     weight: 90

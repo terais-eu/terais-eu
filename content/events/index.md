@@ -1,5 +1,5 @@
 ---
-title: Trustworthy Human-Robot Interaction Summer School
+title: Events
 type: page
 ---
 
@@ -7,26 +7,61 @@ type: page
   @media screen and (min-width: 1600px) {
     .fixed-nav {
       position: fixed;
-      top: 235px;
+      top: 250px;
       right: 0;
-      padding-right: 10px;
+      padding-right: 2ch;
     }
   }
 </style>
 
 <div class="fixed-nav">
 
-- [Introduction](#introduction)
-- [Timetable](#timetable)
-- [THRISS Venue](#thriss-venue)
-- [About THRISS](#about-thriss)
-- [Organizing Committee](#organizing-committee)
-- [Invited Speakers and Lecturers](#invited-speakers-and-lecturers)
-- [Lectures](#lectures)
-- [Workshops](#workshops)
-- [Student Enrollment](#student-enrollment)
+- [Supporting Excellence in AI Research](#supporting-excellence-in-ai-research)
+
+- [THRISS](#trustworthy-human-robot-interaction-summer-school)
+  - [Introduction](#introduction)
+  - [Timetable](#timetable)
+  - [THRISS Venue](#thriss-venue)
+  - [About THRISS](#about-thriss)
+  - [Organizing Committee](#organizing-committee)
+  - [Invited Speakers and Lecturers](#invited-speakers-and-lecturers)
+  - [Lectures](#lectures)
+  - [Workshops](#workshops)
+  - [Student Enrollment](#student-enrollment)
 
 </div>
+
+<hr>
+
+# **Supporting Excellence in AI Research**
+
+In the spirit of fostering meaningful research collaborations, the TERAIS project team invites you to save the date for
+a one-day event **Supporting Excellence in AI Research**!
+
+Date:  **16 June 2025**
+
+Place:  **Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Mlynská dolina, Slovakia**
+
+You can look forward to:
+- Inspiring keynote lectures from **Angelo Cangelosi** (University of Manchester, United Kingdom) and **Fredrik Heintz** (Linköping University, Sweden)
+- Presentations of researchers from **Italian Institute of Technology**, **University of Hamburg** and **Comenius University Bratislava**
+- Discussions regarding **research support**, **technology transfer** and **industrial partnerships**
+- Expanding your network through **shared knowledge and insights**
+- **Building partnerships** that fuel innovation
+- Discovering **new opportunities** for your research and collaborations
+
+## Venue
+
+<div class="text-nowrap">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d665.4584096245268!2d17.070768195004774!3d48.15201241893831!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8bec98e48691%3A0x33ca8abbb6668476!2sFMFI%20UK%2C%20pavil%C3%B3n%20matematiky!5e0!3m2!1sen!2sus!4v1743672913769!5m2!1sen!2sus" allowfullscreen="" class="w-100 m-0 border-0 figure" style="aspect-ratio: 8 / 5"></iframe>
+
+Join us as we reflect on the achievements of the TERAIS project, share key insights, and explore future opportunities.
+
+More details to follow in the upcoming weeks!
+
+
+
+# Trustworthy Human-Robot Interaction Summer School
 
 ## Introduction
 
@@ -271,17 +306,26 @@ the right side below to see the building outline and navigate to the places wher
 
 ### Entrances to the Faculty
 
-The buliding has two entrances: from the South (Physics building) and from the East (Mathematics building). Most of the summer school will take place in the building of Informatics and in main lecture halls, so you will want to use the East entrance. 
-The East entrance is open on working days bw 6:00-20:15. After these hours use the Physics entrance (both buildings are connected).
+The buliding has two entrances: from the South (Physics building) and from the East (Mathematics building). Most of the
+summer school will take place in the building of Informatics and in main lecture halls, so you will want to use the East
+entrance.
+The East entrance is open on working days bw 6:00-20:15. After these hours use the Physics entrance (both buildings are
+connected).
 
 ### Where to eat
-The Faculty has a canteen (FAYNFOOD) in the Physics building close to the South entrance and a cafeteria (FREEFOOD) in the Mathematics wing, at the end of the long corridor straight opposite to the East entrance. 
-The full price for a lunch is approx. 6 Eur. The current menu, as well as other dining options, can be found <a href="https://zona.fmph.uniba.sk/sluzby-a-administrativa/jedalne-listky/">here</a>.
 
-There are several buffees, a cafeteria and a pizzeria in the nearby Faculty of natural sciences and Faculty of information technologies, and plenty others are in the student's dormitory area in Slávičie údolie.
+The Faculty has a canteen (FAYNFOOD) in the Physics building close to the South entrance and a cafeteria (FREEFOOD) in
+the Mathematics wing, at the end of the long corridor straight opposite to the East entrance.
+The full price for a lunch is approx. 6 Eur. The current menu, as well as other dining options, can be
+found <a href="https://zona.fmph.uniba.sk/sluzby-a-administrativa/jedalne-listky/">here</a>.
+
+There are several buffees, a cafeteria and a pizzeria in the nearby Faculty of natural sciences and Faculty of
+information technologies, and plenty others are in the student's dormitory area in Slávičie údolie.
 
 ### Internet
-Eduroam Wifi is available in the Faculty buildings - you should be able to log in with your home university Eduroam credentials.
+
+Eduroam Wifi is available in the Faculty buildings - you should be able to log in with your home university Eduroam
+credentials.
 
 ## How to get there
 
