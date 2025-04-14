@@ -54,6 +54,7 @@ You can look forward to:
 
 <div class="text-nowrap">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d665.4584096245268!2d17.070768195004774!3d48.15201241893831!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8bec98e48691%3A0x33ca8abbb6668476!2sFMFI%20UK%2C%20pavil%C3%B3n%20matematiky!5e0!3m2!1sen!2sus!4v1743672913769!5m2!1sen!2sus" allowfullscreen="" class="w-100 m-0 border-0 figure" style="aspect-ratio: 8 / 5"></iframe>
+</div>
 
 Join us as we reflect on the achievements of the TERAIS project, share key insights, and explore future opportunities.
 
