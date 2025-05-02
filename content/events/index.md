@@ -60,9 +60,11 @@ Join us as we reflect on the achievements of the TERAIS project, share key insig
 
 More details to follow in the upcoming weeks!
 
+# Past events
 
+<hr>
 
-# Trustworthy Human-Robot Interaction Summer School
+# **Trustworthy Human-Robot Interaction Summer School**
 
 ## Introduction
 
