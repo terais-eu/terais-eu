@@ -66,6 +66,9 @@ More details to follow in the upcoming weeks!
 
 # **Trustworthy Human-Robot Interaction Summer School**
 
+<details>
+<summary>See more information</summary>
+
 ## Introduction
 
 {{< figure src="thriss.svg" alt="THRISS logo"
@@ -84,96 +87,6 @@ THRISS is supported by the [**Slovak Society for Cognitive Science**](https://co
 
 ## Timetable
 
-<style>
-    .tg td {
-        border-color: black;
-        border-style: solid;
-        border-width: 1px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-        overflow: hidden;
-        padding: 4px 2px;
-        word-break: normal;
-    }
-
-    .tg th {
-        border-color: black;
-        border-style: solid;
-        border-width: 1px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-        font-weight: normal;
-        overflow: hidden;
-        padding: 4px 2px;
-        word-break: normal;
-    }
-
-    .tg .tg-ct2b {
-        background-color: #ffdefe;
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-8vwi {
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-wdhd {
-        background-color: #edfeff;
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-susy {
-        background-color: #edfeff;
-        border-color: inherit;
-        font-weight: bold;
-        vertical-align: middle
-    }
-
-    .tg .tg-c3ow {
-        font-size: 10px;
-        text-wrap: nowrap;
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-fnyw {
-        background-color: #edf4ff;
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-1sy6 {
-        background-color: #ffffd3;
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-ao2g {
-        border-color: #333333;
-        vertical-align: middle
-    }
-
-    .tg .tg-s9lc {
-        background-color: #fce5cc;
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-np7h {
-        background-color: #d6ffc1;
-        border-color: inherit;
-        vertical-align: middle
-    }
-
-    .tg .tg-80s2 {
-        background-color: #fff2cb;
-        border-color: inherit;
-        vertical-align: middle
-    }
-</style>
 <table class="tg table text-center">
 	<thead>
 	<tr>
@@ -548,3 +461,96 @@ human-robot interaction or empirical research using experimental design.
 * All complete applications will undergo a thorough selection process. Upon acceptance, you will receive an official
   acceptance letter via email with the offer to join the THRISS summer school.
 * Notifications of acceptance will be sent out during the course of April, the latest by 30.04.2024. 
+
+</details>
+
+<style>
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 4px 2px;
+        word-break: normal;
+    }
+
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 4px 2px;
+        word-break: normal;
+    }
+
+    .tg .tg-ct2b {
+        background-color: #ffdefe;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-8vwi {
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-wdhd {
+        background-color: #edfeff;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-susy {
+        background-color: #edfeff;
+        border-color: inherit;
+        font-weight: bold;
+        vertical-align: middle
+    }
+
+    .tg .tg-c3ow {
+        font-size: 10px;
+        text-wrap: nowrap;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-fnyw {
+        background-color: #edf4ff;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-1sy6 {
+        background-color: #ffffd3;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-ao2g {
+        border-color: #333333;
+        vertical-align: middle
+    }
+
+    .tg .tg-s9lc {
+        background-color: #fce5cc;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-np7h {
+        background-color: #d6ffc1;
+        border-color: inherit;
+        vertical-align: middle
+    }
+
+    .tg .tg-80s2 {
+        background-color: #fff2cb;
+        border-color: inherit;
+        vertical-align: middle
+    }
+</style>
