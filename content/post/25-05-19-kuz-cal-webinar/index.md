@@ -10,8 +10,8 @@ location: Hotel Park, Piešťany, Slovakia and **[MS Teams Meeting to join onlin
 
 # Event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-22T17:09:00+0200'
-date_end: '2025-05-22T20:10:40+0200'
+date: '2025-05-22T09:00:00+0200'
+date_end: '2025-05-22T10:40:00+0200'
 all_day: false
 
 # Schedule page publish date (NOT event date).
