@@ -11,6 +11,8 @@ gallery_item:
   - album: 25-05-19-visit-by-iit
     image: IMG_8814.jpg
   - album: 25-05-19-visit-by-iit
+    image: IMG_8821.jpg
+  - album: 25-05-19-visit-by-iit
     image: PXL_20250410_163447246.jpg
 ---
 
