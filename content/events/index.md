@@ -40,6 +40,8 @@ lightbox="false" class="w-100 m-0 figure cursor-pointer" >}}
 
 </a>
 
+Contact person: [nina.kucerakova@fmph.uniba.sk](mailto:nina.kucerakova@fmph.uniba.sk)
+
 ## Venue
 
 <div class="text-nowrap">
