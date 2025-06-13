@@ -8,7 +8,7 @@ aliases:
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "igor-farkas"
+  - "igor-farkas"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,8 +22,8 @@ weight: 50
 
 # Organizations/Affiliations
 organizations:
-- name: Comenius University Bratislava
-  url: "https://www.uniba.sk"
+  - name: Comenius University Bratislava
+    url: "https://www.uniba.sk"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: |
@@ -49,12 +49,12 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: 'https://cogsci.fmph.uniba.sk/~farkas/'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=q3FVV9AAAAAJ
+  - icon: globe
+    icon_pack: fas
+    link: 'https://cogsci.fmph.uniba.sk/~farkas/'  # For a direct email link, use "mailto:test@example.org".
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=q3FVV9AAAAAJ
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:igor.farkas@fmph.uniba.sk'  # For a direct email link, use "mailto:test@example.org".
@@ -79,15 +79,23 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- WP5
+  - WP5
 ---
-Igor Farkaš holds a PhD degree in applied informatics and MSc degree in technical cybernetics, both from the Slovak University of Technology in Bratislava. In 2000-2003 he worked as a research fellow (postdoc) at the Department of Psychology, University of Richmond, VA where he worked on connectionist modeling of early lexical acquisition.
-Since 2003 he has been affiliated with the Department of Applied Informatics of the Faculty of Mathematics, Physics and Informatics, Comenius University Bratislava, since 2014 as a full professor and the head of department. He coordinates the Cognition and Neural Computation research group, and the Centre for Cognitive Science.
 
-Igor Farkaš received a prestigious Fulbright scholarship (Department of Computer Science, University of Texas in Austin) and Humboldt scholarship (Department of Computational Linguistics and Phonetics, Saarland University, Germany).
+Igor Farkaš holds a PhD degree in applied informatics and MSc degree in technical cybernetics, both from the Slovak
+University of Technology in Bratislava. In 2000-2003 he worked as a research fellow (postdoc) at the Department of
+Psychology, University of Richmond, VA where he worked on connectionist modeling of early lexical acquisition.
+Since 2003 he has been affiliated with the Department of Applied Informatics of the Faculty of Mathematics, Physics and
+Informatics, Comenius University Bratislava, since 2014 as a full professor and the head of department. He coordinates
+the Cognition and Neural Computation research group, and the Centre for Cognitive Science.
 
-His research interests include understanding artificial neural network models, and their use for cognitive modeling in robotics and language, reinforcement learning, intrinsic motivation and the concept of abstractness.
-In the field of education, he is the faculty coordinator of the Middle European interdisciplinary master program in Cognitive Science (MEi:CogSci).
+Igor Farkaš received a prestigious Fulbright scholarship (Department of Computer Science, University of Texas in Austin)
+and Humboldt scholarship (Department of Computational Linguistics and Phonetics, Saarland University, Germany).
+
+His research interests include understanding artificial neural network models, and their use for cognitive modeling in
+robotics and language, reinforcement learning, intrinsic motivation and the concept of abstractness.
+In the field of education, he is the faculty coordinator of the Middle European interdisciplinary master program in
+Cognitive Science (MEi:CogSci).
 
 Prof. Igor Farkaš serves as the coordinator of the TERAIS project,
 Transformation Lead Expert, and WP5 Systematic Development of People Leader.
