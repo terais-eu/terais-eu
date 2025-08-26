@@ -1,0 +1,20 @@
+@InProceedings{10.1007/978-3-031-91569-7_7,
+author="Tzamos, Charalambos
+and Kocur, Viktor
+and Ding, Yaqing
+and Sattler, Torsten
+and Kukelova, Zuzana",
+editor="Del Bue, Alessio
+and Canton, Cristian
+and Pont-Tuset, Jordi
+and Tommasi, Tatiana",
+title="Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?",
+booktitle="Computer Vision -- ECCV 2024 Workshops",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="91--107",
+abstract="Estimating the relative pose between two cameras is a fundamental step in many applications such as Structure-from-Motion. The common approach to relative pose estimation is to apply a minimal solver inside a RANSAC loop. Highly efficient solvers exist for pinhole cameras. Yet, (nearly) all cameras exhibit radial distortion. Not modeling radial distortion leads to (significantly) worse results. However, minimal radial distortion solvers are significantly more complex than pinhole solvers, both in terms of run-time and implementation efforts. This paper compares radial distortion solvers with a simple-to-implement approach that combines an efficient pinhole solver with sampled radial distortion parameters. Extensive experiments on multiple datasets and RANSAC variants show that this simple approach performs similarly or better than the most accurate minimal distortion solvers at faster run-times while being significantly more accurate than faster non-minimal solvers. We clearly show that complex radial distortion solvers are not necessary in practice. Code and benchmark are available at https://github.com/kocurvik/rd.",
+isbn="978-3-031-91569-7"
+}
+
