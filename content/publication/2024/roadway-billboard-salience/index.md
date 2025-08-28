@@ -1,11 +1,11 @@
 ---
-title: 'Comparing Apples to Oranges: LLM-Powered Multimodal Intention Prediction in an Object Categorization Task'
+title: 'A method for estimating roadway billboard salience'
 authors:
-  - Hassan Ali
-  - Philipp Allgeuer
-  - Stefan Wermter
-date: '2025-03-25T00:00:00Z'
-doi: '10.1007/978-981-96-3525-2_25'
+  - zuzana-berger-haladova
+  - Michal Zrubec
+  - Zuznana Černeková
+date: '2024-08-30T00:00:00Z'
+doi: '10.1145/3675231.3675238'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -17,15 +17,16 @@ doi: '10.1007/978-981-96-3525-2_25'
 publication_types: [ '1' ]
 
 # Publication name and optional abbreviated publication name.
-publication: '16th International Conference on Social Robotics'
-publication_short: 'ICSR'
+publication: '2024 Symposium on Applied Perception'
+publication_short: 'SAP'
 
 abstract: |
-  Human intention-based systems enable robots to perceive and interpret user actions to interact with humans and adapt to their behavior proactively. Therefore, intention prediction is pivotal in creating a natural interaction with social robots in human-designed environments. In this paper, we examine using Large Language Models (LLMs) to infer human intention in a collaborative object categorization task with a physical robot. We propose a novel multimodal approach that integrates user non-verbal cues, like hand gestures, body poses, and facial expressions, with environment states and user verbal cues to predict user intentions in a hierarchical architecture. Our evaluation of five LLMs shows the potential for reasoning about verbal and non-verbal user cues, leveraging their context-understanding and real-world knowledge to support intention prediction while collaborating on a task with a social robot.
+  Roadside billboards and other forms of outdoor advertising play a crucial role in marketing initiatives; however, they can also distract drivers, potentially contributing to accidents. This study delves into the significance of roadside advertising in images captured from a driver’s perspective. Firstly, it evaluates the effectiveness of neural networks in detecting advertising along roads, focusing on the YOLOv5 and Faster R-CNN models. Secondly, the study addresses the determination of billboard significance using methods for saliency extraction. The UniSal and SpectralResidual methods were employed to create saliency maps for each image. The study establishes a database of eye tracking sessions captured during city highway driving to assess the saliency models.
+
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
 
 tags:
-  - University of Hamburg
+  - Comenius University Bratislava
 featured: false
 
 #links:
