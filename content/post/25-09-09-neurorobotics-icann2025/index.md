@@ -24,7 +24,7 @@ featured: true
 
 The unique field of neurorobotics aims at bringing together research in machine learning, robotics and bio-inspired artificial intelligence, in particular artificial neural networks. Following the “understanding by building” methodology, cognitive robotics studies cognition by employing human-like neural models of cognitive capacities in robots that enable them to interact with and learn from complex and multimodal environments thus gaining their cognitive abilities. In connection with human-robot interaction (HRI), cognitive modeling represents a way to make robots more considerate and aware of people as well as make their behavior more legible and explainable and make interaction with robots smoother and more efficient promoting advances in HRI. After two successful Neurorobotics special sessions at ICANN conferences we are inviting you to join our session online.
 
-## Program
+## Program (in local time CEST+1)
 
 | Time | Title | Speaker(s) |
 |-----:|-------|------------|
